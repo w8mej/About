@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "monosans.djlint",
+        "HTMLHint.vscode-htmlhint",
+        "adamwalzer.scss-lint",
+        "standard.vscode-standard",
+        "Bridgecrew.checkov",
+        "MS-CST-E.vscode-devskim",
+        "streetsidesoftware.code-spell-checker",
+        "AquaSecurityOfficial.trivy-vulnerability-scanner",
+        "stylelint.vscode-stylelint",
+        "esbenp.prettier-vscode"
+    ]
+}

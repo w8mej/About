@@ -1,0 +1,3495 @@
+[
+  {
+    "grouping": "Application Security",
+    "skills": [
+      {
+        "name": "Coverity Static Analysis",
+        "icon": "bash"
+      },
+      {
+        "name": "CodeClimate",
+        "icon": "bash"
+      },
+      {
+        "name": "Cigital AppGuard",
+        "icon": "bash"
+      },
+      {
+        "name": "HP Fortify Static Code Analyzer",
+        "icon": "bash"
+      },
+      {
+        "name": "Brakeman",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM AppScan Standard",
+        "icon": "bash"
+      },
+      {
+        "name": "Veracode Static Analysis",
+        "icon": "bash"
+      },
+      {
+        "name": "SonarQube",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortify on Demand",
+        "icon": "bash"
+      },
+      {
+        "name": "OWASP ZAP",
+        "icon": "bash"
+      },
+      {
+        "name": "Retire.js",
+        "icon": "bash"
+      },
+      {
+        "name": "ESLint",
+        "icon": "bash"
+      },
+      {
+        "name": "PVS-Studio",
+        "icon": "bash"
+      },
+      {
+        "name": "Checkmarx CxSAST",
+        "icon": "bash"
+      },
+      {
+        "name": "Dynamic Application Security Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "HP WebInspect",
+        "icon": "bash"
+      },
+      {
+        "name": "Wapiti",
+        "icon": "bash"
+      },
+      {
+        "name": "Acunetix 360",
+        "icon": "bash"
+      },
+      {
+        "name": "Netsparker",
+        "icon": "bash"
+      },
+      {
+        "name": "Burp Suite",
+        "icon": "bash"
+      },
+      {
+        "name": "Arachni",
+        "icon": "bash"
+      },
+      {
+        "name": "Netsparker CodeBreaker",
+        "icon": "bash"
+      },
+      {
+        "name": "Intruder",
+        "icon": "bash"
+      },
+      {
+        "name": "Acunetix Acunetix Premium",
+        "icon": "bash"
+      },
+      {
+        "name": "OpenVAS",
+        "icon": "bash"
+      },
+      {
+        "name": "Netريبة",
+        "icon": "bash"
+      },
+      {
+        "name": "RestAssured",
+        "icon": "bash"
+      },
+      {
+        "name": "SoapUI",
+        "icon": "bash"
+      },
+      {
+        "name": "SiteSlinger",
+        "icon": "bash"
+      },
+      {
+        "name": "Appium",
+        "icon": "bash"
+      },
+      {
+        "name": "Interactive Application Security Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Astra Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Kenna Security Archer",
+        "icon": "bash"
+      },
+      {
+        "name": "Sysdig Secure Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Veracode Static Analysis with Dynamic Analysis",
+        "icon": "bash"
+      },
+      {
+        "name": "Contrast Security IAST",
+        "icon": "bash"
+      },
+      {
+        "name": "Kowabit Drifter",
+        "icon": "bash"
+      },
+      {
+        "name": "Invicti Detect",
+        "icon": "bash"
+      },
+      {
+        "name": "ShiftLeft CodeSec Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Defending Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortify on Demand IAST",
+        "icon": "bash"
+      },
+      {
+        "name": "Cigital Fortify on Demand IAST",
+        "icon": "bash"
+      },
+      {
+        "name": "Applitools",
+        "icon": "bash"
+      },
+      {
+        "name": "Contrast Assess",
+        "icon": "bash"
+      },
+      {
+        "name": "Kenna Security Archer",
+        "icon": "bash"
+      },
+      {
+        "name": "Deepwatch Cloud Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Web Application Firewalls",
+        "icon": "bash"
+      },
+      {
+        "name": "Barracuda WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "ModSecurity",
+        "icon": "bash"
+      },
+      {
+        "name": "Radware DefensePro",
+        "icon": "bash"
+      },
+      {
+        "name": "Imperva WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Cloudflare WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "F5 BIG-IP Application Security Module",
+        "icon": "bash"
+      },
+      {
+        "name": "Akamai Kona Site Defender",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortinet FortiWeb",
+        "icon": "bash"
+      },
+      {
+        "name": "Citrix NetScaler Application Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "DenyAll WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Wallarm WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Nexusguard WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Software Composition Analysis Tools",
+        "icon": "bash"
+      },
+      {
+        "name": "Black Duck",
+        "icon": "bash"
+      },
+      {
+        "name": "Flexera Software",
+        "icon": "bash"
+      },
+      {
+        "name": "JFrog Xray",
+        "icon": "bash"
+      },
+      {
+        "name": "Snyk",
+        "icon": "bash"
+      },
+      {
+        "name": "WhiteSource",
+        "icon": "bash"
+      },
+      {
+        "name": "DependencyTrack",
+        "icon": "bash"
+      },
+      {
+        "name": "Sonatype Nexus Lifecycle",
+        "icon": "bash"
+      },
+      {
+        "name": "Artifactory by JFrog",
+        "icon": "bash"
+      },
+      {
+        "name": "OSSIndex",
+        "icon": "bash"
+      },
+      {
+        "name": "Retire.js",
+        "icon": "bash"
+      },
+      {
+        "name": "SbomGenerator",
+        "icon": "bash"
+      },
+      {
+        "name": "Hackney",
+        "icon": "bash"
+      },
+      {
+        "name": "CycloneDX",
+        "icon": "bash"
+      },
+      {
+        "name": "SPDX",
+        "icon": "bash"
+      },
+      {
+        "name": "FOSSA",
+        "icon": "bash"
+      },
+      {
+        "name": "Container Security Scanning Tools",
+        "icon": "bash"
+      },
+      {
+        "name": "Sysdig Falco",
+        "icon": "bash"
+      },
+      {
+        "name": "Qualys Container Security",
+        "icon": "bash"
+      },
+      {
+        "name": "NeuVector",
+        "icon": "bash"
+      },
+      {
+        "name": "Aqua Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Anchore Engine",
+        "icon": "bash"
+      },
+      {
+        "name": "Twistlock",
+        "icon": "bash"
+      },
+      {
+        "name": "Docker Security Scanner",
+        "icon": "bash"
+      },
+      {
+        "name": "Clair",
+        "icon": "bash"
+      },
+      {
+        "name": "Trivy",
+        "icon": "bash"
+      },
+      {
+        "name": "Aqua CSP",
+        "icon": "bash"
+      },
+      {
+        "name": "Distroless",
+        "icon": "bash"
+      },
+      {
+        "name": "Sysdig Monitor",
+        "icon": "bash"
+      },
+      {
+        "name": "StackRox Kubernetes Security Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Aqua Trivy",
+        "icon": "bash"
+      },
+      {
+        "name": "Sonobuoy",
+        "icon": "bash"
+      },
+      {
+        "name": "Cloud Workload Protection Platforms",
+        "icon": "bash"
+      },
+      {
+        "name": "McAfee MVISION Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Crowdstrike Falcon Cloud Workload Protection",
+        "icon": "bash"
+      },
+      {
+        "name": "Cisco Cloud Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Palo Alto Networks Prisma Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Deepwatch Cloud Security",
+        "icon": "bash"
+      },
+      {
+        "name": "MacAfee Cloud Native Security Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Trend Micro Cloud One – Workload Security",
+        "icon": "bash"
+      },
+      {
+        "name": "SentinelOne Singularity Cloud Native Security Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Amazon GuardDuty",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Security Center for workload protection",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud Adaptive Security Edge",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM Cloud WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "CloudPassage Halo",
+        "icon": "bash"
+      },
+      {
+        "name": "Aqua CSP",
+        "icon": "bash"
+      },
+      {
+        "name": "Fugue Cloud Native Security Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "API Security Tools",
+        "icon": "bash"
+      },
+      {
+        "name": "Apigee X-ray",
+        "icon": "bash"
+      },
+      {
+        "name": "Axway API Gateway",
+        "icon": "bash"
+      },
+      {
+        "name": "Imperva Cloud Armor",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS WAF for APIs",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure API Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud API Gateway",
+        "icon": "bash"
+      },
+      {
+        "name": "Kong Guard",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Bug Bounty Platforms",
+    "skills": [
+      {
+        "name": "BugCrowd",
+        "icon": "bash"
+      },
+      {
+        "name": "HackerOne",
+        "icon": "bash"
+      },
+      {
+        "name": "Intigriti",
+        "icon": "bash"
+      },
+      {
+        "name": "Synack",
+        "icon": "bash"
+      },
+      {
+        "name": "Yogosha",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Cloud Security",
+    "skills": [
+      {
+        "name": "Alibaba Cloud Anti-DDoS",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Anycast EIP",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Bastionhost",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Cloud Security Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Compliance and Certifications",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Content Delivery Network Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Data Encryption Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Data Security Center",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Key Management Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Managed Security Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Resource Access Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud SSL Certificates Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Secure Media Workflow",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Security Anti-Bot Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Security Privacy Protector",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Server Guard",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Threat Detection Service",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS Nitro",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS Nitro Enclave",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS Security Hub",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure DDoS Protection",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Information Protection",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Key Vault",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Monitor",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Policy",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Security Center",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure VPN Gateway",
+        "icon": "bash"
+      },
+      {
+        "name": "Cloudflare",
+        "icon": "bash"
+      },
+      {
+        "name": "Cloudflare Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Cloudflare SSL for secure certificates",
+        "icon": "bash"
+      },
+      {
+        "name": "CloudPassage Halo",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud BeyondCorp Remote Access",
+        "icon": "bash"
+      },
+      {
+        "name": "BeyondTrust Access Control",
+        "icon": "bash"
+      },
+      {
+        "name": "Duo Security",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM Cloud Security Enforcer",
+        "icon": "bash"
+      },
+      {
+        "name": "McAfee MVISION Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Menlo Security Isolation Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Netskope Security Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Guard",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Audit",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Compliance",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Console",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure DNS",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Edge Services",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Email Delivery",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Events",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Functions",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Health Checks",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Key Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Load Balancing",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Logging",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Monitoring",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Notifications",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud Infrastructure Vault",
+        "icon": "bash"
+      },
+      {
+        "name": "Prisma Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Venafi Trust Protection Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Zimperium zIPS",
+        "icon": "bash"
+      },
+      {
+        "name": "Zscaler Internet Access",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Cryptography",
+    "skills": [
+      {
+        "name": "1Password",
+        "icon": "bash"
+      },
+      {
+        "name": "BitLocker",
+        "icon": "bash"
+      },
+      {
+        "name": "Botan",
+        "icon": "bash"
+      },
+      {
+        "name": "Bouncy Castle Crypto API",
+        "icon": "bash"
+      },
+      {
+        "name": "Crypto++",
+        "icon": "bash"
+      },
+      {
+        "name": "Cryptool",
+        "icon": "bash"
+      },
+      {
+        "name": "GnuPG",
+        "icon": "bash"
+      },
+      {
+        "name": "Java Cryptography Architecture",
+        "icon": "bash"
+      },
+      {
+        "name": "Let's Encrypt",
+        "icon": "bash"
+      },
+      {
+        "name": "Libsodium",
+        "icon": "bash"
+      },
+      {
+        "name": "Microsoft CryptoAPI/CryptoNG",
+        "icon": "bash"
+      },
+      {
+        "name": "NaCl",
+        "icon": "bash"
+      },
+      {
+        "name": "Ncryptoki",
+        "icon": "bash"
+      },
+      {
+        "name": "OpenPGP",
+        "icon": "bash"
+      },
+      {
+        "name": "OpenSSL",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Advanced Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Key Vault",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Transparent Data Encryption",
+        "icon": "bash"
+      },
+      {
+        "name": "PyCrypto",
+        "icon": "bash"
+      },
+      {
+        "name": "RSABSAFE",
+        "icon": "bash"
+      },
+      {
+        "name": "Sectigo Certificate Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "TrueCrypt",
+        "icon": "bash"
+      },
+      {
+        "name": "VeraCrypt",
+        "icon": "bash"
+      },
+      {
+        "name": "WolfSSL",
+        "icon": "bash"
+      },
+      {
+        "name": "Yubico YubiKey",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Data Security",
+    "skills": [
+      {
+        "name": "Alibaba Cloud Data Encryption Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Key Management Service",
+        "icon": "bash"
+      },
+      {
+        "name": "AppDynamics Database Monitoring",
+        "icon": "bash"
+      },
+      {
+        "name": "DataSunrise Database Security",
+        "icon": "bash"
+      },
+      {
+        "name": "DbVisualizer",
+        "icon": "bash"
+      },
+      {
+        "name": "Idera SQL Compliance Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "Idera SQL Secure",
+        "icon": "bash"
+      },
+      {
+        "name": "ManageEngine Key Manager Plus",
+        "icon": "bash"
+      },
+      {
+        "name": "McAfee Data Center Security Suite for Databases",
+        "icon": "bash"
+      },
+      {
+        "name": "Navicat for Database Administration",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Audit Vault",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Audit Vault and Database Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Data Masking and Subsetting",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Data Redaction",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Database Encryption Wizard",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Database Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Database Lifecycle Management Pack",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Database Security Assessment Tool",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Database Vault",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Enterprise Manager for Database Security Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle GoldenGate",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Label Security",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Deception Technology",
+    "skills": [
+      {
+        "name": "Attivo Networks",
+        "icon": "bash"
+      },
+      {
+        "name": "Illusive Networks",
+        "icon": "bash"
+      },
+      {
+        "name": "TrapX",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "DevSecOps Tools",
+    "skills": [
+      {
+        "name": "Anchore",
+        "icon": "bash"
+      },
+      {
+        "name": "Aqua Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Black Duck",
+        "icon": "bash"
+      },
+      {
+        "name": "Checkmarx",
+        "icon": "bash"
+      },
+      {
+        "name": "GitLab",
+        "icon": "bash"
+      },
+      {
+        "name": "JFrog XRay",
+        "icon": "bash"
+      },
+      {
+        "name": "Snyk",
+        "icon": "bash"
+      },
+      {
+        "name": "SonarQube",
+        "icon": "bash"
+      },
+      {
+        "name": "Twistlock",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Digital Forensics & Incident Response (DFIR) Tools",
+    "skills": [
+      {
+        "name": "Axiom Cyber",
+        "icon": "bash"
+      },
+      {
+        "name": "EnCase",
+        "icon": "bash"
+      },
+      {
+        "name": "FTK",
+        "icon": "bash"
+      },
+      {
+        "name": "Magnet AXIOM",
+        "icon": "bash"
+      },
+      {
+        "name": "Magnet IEF",
+        "icon": "bash"
+      },
+      {
+        "name": "OpenText EnCase",
+        "icon": "bash"
+      },
+      {
+        "name": "X-Ways Forensics",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Email Security",
+    "skills": [
+      {
+        "name": "Agari",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortinet FortiMail",
+        "icon": "bash"
+      },
+      {
+        "name": "Forcepoint Email Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Microsoft Defender for Office 365",
+        "icon": "bash"
+      },
+      {
+        "name": "Mimecast",
+        "icon": "bash"
+      },
+      {
+        "name": "Mimecast Secure Email Gateway",
+        "icon": "bash"
+      },
+      {
+        "name": "Office 365 Advanced Threat Protection",
+        "icon": "bash"
+      },
+      {
+        "name": "Proofpoint Email Protection",
+        "icon": "bash"
+      },
+      {
+        "name": "Proofpoint Targeted Attack Protection",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Endpoint Security",
+    "skills": [
+      {
+        "name": "Bitdefender GravityZone",
+        "icon": "bash"
+      },
+      {
+        "name": "Carbon Black Defense",
+        "icon": "bash"
+      },
+      {
+        "name": "Carbon Black Response",
+        "icon": "bash"
+      },
+      {
+        "name": "Crowdstrike Falcon",
+        "icon": "bash"
+      },
+      {
+        "name": "Crowdstrike Falcon Insight",
+        "icon": "bash"
+      },
+      {
+        "name": "CylancePROTECT",
+        "icon": "bash"
+      },
+      {
+        "name": "Endgame",
+        "icon": "bash"
+      },
+      {
+        "name": "ESET Endpoint Security",
+        "icon": "bash"
+      },
+      {
+        "name": "FireEye Endpoint Security",
+        "icon": "bash"
+      },
+      {
+        "name": "FireEye Helix",
+        "icon": "bash"
+      },
+      {
+        "name": "Kaspersky Endpoint Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Lookout Mobile Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Malwarebytes",
+        "icon": "bash"
+      },
+      {
+        "name": "ManageEngine DataSecurity Plus",
+        "icon": "bash"
+      },
+      {
+        "name": "McAfee Endpoint Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Microsoft Defender for Endpoint",
+        "icon": "bash"
+      },
+      {
+        "name": "MobileIron Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Morphisec Guard",
+        "icon": "bash"
+      },
+      {
+        "name": "Palo Alto Networks Prisma Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Palo Alto Networks Cortex XDR",
+        "icon": "bash"
+      },
+      {
+        "name": "Symantec Endpoint Encryption",
+        "icon": "bash"
+      },
+      {
+        "name": "Symantec Endpoint Protection Mobile",
+        "icon": "bash"
+      },
+      {
+        "name": "Tanium",
+        "icon": "bash"
+      },
+      {
+        "name": "Trend Micro Apex One",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Identity and Access Management (IAM)",
+    "skills": [
+      {
+        "name": "Azure Active Directory",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Active Directory for Office 365",
+        "icon": "bash"
+      },
+      {
+        "name": "Centrify Zero Trust Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Cisco Duo Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Keycloak for Identity and Access Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Microsoft Active Directory Certificate Services",
+        "icon": "bash"
+      },
+      {
+        "name": "Okta",
+        "icon": "bash"
+      },
+      {
+        "name": "Okta Identity Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Okta Verify",
+        "icon": "bash"
+      },
+      {
+        "name": "Omada Identity Suite",
+        "icon": "bash"
+      },
+      {
+        "name": "One Identity Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "One Identity Safeguard",
+        "icon": "bash"
+      },
+      {
+        "name": "OneLogin",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Identity Governance",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Identity Governance Suite",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Identity Management",
+        "icon": "bash"
+      },
+      {
+        "name": "RSA SecurID",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Incident Response",
+    "skills": [
+      {
+        "name": "Cyphort",
+        "icon": "bash"
+      },
+      {
+        "name": "Demisto",
+        "icon": "bash"
+      },
+      {
+        "name": "FireEye Mandiant",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM Resilient",
+        "icon": "bash"
+      },
+      {
+        "name": "Palo Alto Demisto",
+        "icon": "bash"
+      },
+      {
+        "name": "Resolve Systems",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Network Security",
+    "skills": [
+      {
+        "name": "Airlock Suite",
+        "icon": "bash"
+      },
+      {
+        "name": "Akamai Cloud Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Akamai Enterprise Application Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Akamai Kona Site Defender",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Data Encryption Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Arbor Networks APS",
+        "icon": "bash"
+      },
+      {
+        "name": "Blue Coat Systems",
+        "icon": "bash"
+      },
+      {
+        "name": "Check Point Infinity",
+        "icon": "bash"
+      },
+      {
+        "name": "Check Point NGFW",
+        "icon": "bash"
+      },
+      {
+        "name": "Cisco Firepower NGFW",
+        "icon": "bash"
+      },
+      {
+        "name": "Cisco Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Cisco Stealthwatch",
+        "icon": "bash"
+      },
+      {
+        "name": "Cisco Umbrella",
+        "icon": "bash"
+      },
+      {
+        "name": "Cisco Umbrella SIG",
+        "icon": "bash"
+      },
+      {
+        "name": "F5 BIG-IP",
+        "icon": "bash"
+      },
+      {
+        "name": "F5 Networks Zero Trust Application Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortinet",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortinet Zero Trust Network Access",
+        "icon": "bash"
+      },
+      {
+        "name": "FortiGate",
+        "icon": "bash"
+      },
+      {
+        "name": "Forcepoint Web Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Forcepoint Zero Trust Network Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Gemalto Safenet Trusted Access",
+        "icon": "bash"
+      },
+      {
+        "name": "Juniper Networks SRX Series",
+        "icon": "bash"
+      },
+      {
+        "name": "Kentik",
+        "icon": "bash"
+      },
+      {
+        "name": "Kentik Detect",
+        "icon": "bash"
+      },
+      {
+        "name": "Neustar DDoS Protection",
+        "icon": "bash"
+      },
+      {
+        "name": "NGINX",
+        "icon": "bash"
+      },
+      {
+        "name": "Palo Alto Networks",
+        "icon": "bash"
+      },
+      {
+        "name": "Palo Alto Networks Next-Generation Firewalls",
+        "icon": "bash"
+      },
+      {
+        "name": "Radware DefensePro",
+        "icon": "bash"
+      },
+      {
+        "name": "SonicWall",
+        "icon": "bash"
+      },
+      {
+        "name": "Sophos XG Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "Untangle NG Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "VMware NSX",
+        "icon": "bash"
+      },
+      {
+        "name": "WatchGuard Firebox",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "PKI (Public Key Infrastructure) Tools and Services",
+    "skills": [
+      {
+        "name": "CyberArk",
+        "icon": "bash"
+      },
+      {
+        "name": "DigiCert PKI Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Entrust PKI Management",
+        "icon": "bash"
+      },
+      {
+        "name": "EJBCA Community",
+        "icon": "bash"
+      },
+      {
+        "name": "GlobalSign Managed PKI",
+        "icon": "bash"
+      },
+      {
+        "name": "Hashicorp Vault",
+        "icon": "bash"
+      },
+      {
+        "name": "Keyfactor Command",
+        "icon": "bash"
+      },
+      {
+        "name": "Microsoft Certification Authority",
+        "icon": "bash"
+      },
+      {
+        "name": "OpenCA PKI",
+        "icon": "bash"
+      },
+      {
+        "name": "OpenXPKI",
+        "icon": "bash"
+      },
+      {
+        "name": "Red Hat Certificate System",
+        "icon": "bash"
+      },
+      {
+        "name": "Sectigo Certificate Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "Symantec Managed PKI Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Thawte SSL Certificates",
+        "icon": "bash"
+      },
+      {
+        "name": "Titan PKI Solution",
+        "icon": "bash"
+      },
+      {
+        "name": "Trend Micro Managed PKI Services",
+        "icon": "bash"
+      },
+      {
+        "name": "WISeKey PKI Solutions",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Secure Code Analysis",
+    "skills": [
+      {
+        "name": "Checkmarx",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortify",
+        "icon": "bash"
+      },
+      {
+        "name": "HCL AppScan Source",
+        "icon": "bash"
+      },
+      {
+        "name": "Micro Focus Fortify Static Code Analyzer",
+        "icon": "bash"
+      },
+      {
+        "name": "Semgrep",
+        "icon": "bash"
+      },
+      {
+        "name": "SonarQube",
+        "icon": "bash"
+      },
+      {
+        "name": "Veracode Static Analysis",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Security Information and Event Management (SIEM)",
+    "skills": [
+      {
+        "name": "Alibaba Cloud ActionTrail",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Security Center",
+        "icon": "bash"
+      },
+      {
+        "name": "ArcSight",
+        "icon": "bash"
+      },
+      {
+        "name": "ArcSight ESM",
+        "icon": "bash"
+      },
+      {
+        "name": "Elastic Stack",
+        "icon": "bash"
+      },
+      {
+        "name": "Elasticsearch",
+        "icon": "bash"
+      },
+      {
+        "name": "Graylog",
+        "icon": "bash"
+      },
+      {
+        "name": "Icinga",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM QRadar",
+        "icon": "bash"
+      },
+      {
+        "name": "LogPoint",
+        "icon": "bash"
+      },
+      {
+        "name": "LogRhythm NextGen SIEM",
+        "icon": "bash"
+      },
+      {
+        "name": "ManageEngine Log360",
+        "icon": "bash"
+      },
+      {
+        "name": "Microsoft Sentinel",
+        "icon": "bash"
+      },
+      {
+        "name": "Nagios",
+        "icon": "bash"
+      },
+      {
+        "name": "Ncryptoki",
+        "icon": "bash"
+      },
+      {
+        "name": "Splunk",
+        "icon": "bash"
+      },
+      {
+        "name": "Snorby",
+        "icon": "bash"
+      },
+      {
+        "name": "Snort",
+        "icon": "bash"
+      },
+      {
+        "name": "SnortALog",
+        "icon": "bash"
+      },
+      {
+        "name": "SolarWinds Security Event Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "Zabbix",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Security Orchestration, Automation, and Response (SOAR)",
+    "skills": [
+      {
+        "name": "Demisto",
+        "icon": "bash"
+      },
+      {
+        "name": "FireEye Helix",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM Resilient",
+        "icon": "bash"
+      },
+      {
+        "name": "Palo Alto Networks Demisto",
+        "icon": "bash"
+      },
+      {
+        "name": "ServiceNow Security Operations",
+        "icon": "bash"
+      },
+      {
+        "name": "Siemplify",
+        "icon": "bash"
+      },
+      {
+        "name": "Splunk Phantom",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Security Policy & Compliance Management",
+    "skills": [
+      {
+        "name": "Archer",
+        "icon": "bash"
+      },
+      {
+        "name": "Lockpath",
+        "icon": "bash"
+      },
+      {
+        "name": "Rsam",
+        "icon": "bash"
+      },
+      {
+        "name": "ServiceNow GRC",
+        "icon": "bash"
+      },
+      {
+        "name": "Vanta",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Threat Intelligence",
+    "skills": [
+      {
+        "name": "Anomali ThreatStream",
+        "icon": "bash"
+      },
+      {
+        "name": "FireEye Threat Intelligence",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM X-Force",
+        "icon": "bash"
+      },
+      {
+        "name": "Intsights",
+        "icon": "bash"
+      },
+      {
+        "name": "Recorded Future",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Training & Awareness",
+    "skills": [
+      {
+        "name": "KnowBe4",
+        "icon": "bash"
+      },
+      {
+        "name": "Proofpoint Security Awareness",
+        "icon": "bash"
+      },
+      {
+        "name": "Wombat Security",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Vulnerability Management",
+    "skills": [
+      {
+        "name": "Acunetix",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud Security Vulnerability Discovery Service",
+        "icon": "bash"
+      },
+      {
+        "name": "Anomali ThreatStream",
+        "icon": "bash"
+      },
+      {
+        "name": "Binary Defense Banjax",
+        "icon": "bash"
+      },
+      {
+        "name": "Bounty Factory",
+        "icon": "bash"
+      },
+      {
+        "name": "Bounty Source",
+        "icon": "bash"
+      },
+      {
+        "name": "Bugcrowd",
+        "icon": "bash"
+      },
+      {
+        "name": "Cobalt",
+        "icon": "bash"
+      },
+      {
+        "name": "Code Dx",
+        "icon": "bash"
+      },
+      {
+        "name": "Code Vigilant",
+        "icon": "bash"
+      },
+      {
+        "name": "Codenomicon",
+        "icon": "bash"
+      },
+      {
+        "name": "Coverity",
+        "icon": "bash"
+      },
+      {
+        "name": "Detectify",
+        "icon": "bash"
+      },
+      {
+        "name": "Detectify Crowdsource",
+        "icon": "bash"
+      },
+      {
+        "name": "FireBounty",
+        "icon": "bash"
+      },
+      {
+        "name": "Greenbone Vulnerability Management",
+        "icon": "bash"
+      },
+      {
+        "name": "HackenProof",
+        "icon": "bash"
+      },
+      {
+        "name": "HackerOne",
+        "icon": "bash"
+      },
+      {
+        "name": "Hacktrophy",
+        "icon": "bash"
+      },
+      {
+        "name": "Intigriti",
+        "icon": "bash"
+      },
+      {
+        "name": "Kiuwan Code Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Loki Scanner",
+        "icon": "bash"
+      },
+      {
+        "name": "Nessus",
+        "icon": "bash"
+      },
+      {
+        "name": "Nexpose",
+        "icon": "bash"
+      },
+      {
+        "name": "Open Bug Bounty",
+        "icon": "bash"
+      },
+      {
+        "name": "PlugBounty",
+        "icon": "bash"
+      },
+      {
+        "name": "Qualys Vulnerability Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Qualys Web Application Scanning",
+        "icon": "bash"
+      },
+      {
+        "name": "Root Bounty",
+        "icon": "bash"
+      },
+      {
+        "name": "Secure Code Warrior",
+        "icon": "bash"
+      },
+      {
+        "name": "Semgrep",
+        "icon": "bash"
+      },
+      {
+        "name": "Snyk",
+        "icon": "bash"
+      },
+      {
+        "name": "Synack",
+        "icon": "bash"
+      },
+      {
+        "name": "Tenable.sc",
+        "icon": "bash"
+      },
+      {
+        "name": "Veracode",
+        "icon": "bash"
+      },
+      {
+        "name": "Vulnerability Lab",
+        "icon": "bash"
+      },
+      {
+        "name": "YesWeHack",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Web Application Security",
+    "skills": [
+      {
+        "name": "Alibaba Cloud Web Application Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "Appknox",
+        "icon": "bash"
+      },
+      {
+        "name": "Atomicorp WAF",
+        "icon": "bash"
+      },
+      {
+        "name": "Burp Suite",
+        "icon": "bash"
+      },
+      {
+        "name": "Checkmarx",
+        "icon": "bash"
+      },
+      {
+        "name": "Comodo ModSecurity",
+        "icon": "bash"
+      },
+      {
+        "name": "Contrast Security",
+        "icon": "bash"
+      },
+      {
+        "name": "Fortinet FortiDB",
+        "icon": "bash"
+      },
+      {
+        "name": "Imperva Incapsula",
+        "icon": "bash"
+      },
+      {
+        "name": "Imperva SecureSphere Database Security",
+        "icon": "bash"
+      },
+      {
+        "name": "McAfee Total Protection for Data Loss Prevention",
+        "icon": "bash"
+      },
+      {
+        "name": "Modulo Risk Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "Netsparker",
+        "icon": "bash"
+      },
+      {
+        "name": "OWASP Core Rule Set",
+        "icon": "bash"
+      },
+      {
+        "name": "OWASP Vulnerability Management Tool",
+        "icon": "bash"
+      },
+      {
+        "name": "OWASP ZAP",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Data Safe",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Database Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Web Application Firewall",
+        "icon": "bash"
+      },
+      {
+        "name": "Qualys Web Application Scanning",
+        "icon": "bash"
+      },
+      {
+        "name": "RIPS Technologies",
+        "icon": "bash"
+      },
+      {
+        "name": "SQLmap",
+        "icon": "bash"
+      },
+      {
+        "name": "WhiteSource",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Programming Languages",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "bash"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "bash"
+      },
+      {
+        "name": "PHP",
+        "icon": "bash"
+      },
+      {
+        "name": "CSS",
+        "icon": "bash"
+      },
+      {
+        "name": "Shell",
+        "icon": "bash"
+      },
+      {
+        "name": "Python",
+        "icon": "bash"
+      },
+      {
+        "name": "JSON",
+        "icon": "bash"
+      },
+      {
+        "name": "SQL",
+        "icon": "bash"
+      },
+      {
+        "name": "TSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "PLpgSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "HCL",
+        "icon": "bash"
+      },
+      {
+        "name": "SCSS",
+        "icon": "bash"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "bash"
+      },
+      {
+        "name": "Ruby",
+        "icon": "bash"
+      },
+      {
+        "name": "Java",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Frontend Technologies",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "bash"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "bash"
+      },
+      {
+        "name": "CSS",
+        "icon": "bash"
+      },
+      {
+        "name": "JSON",
+        "icon": "bash"
+      },
+      {
+        "name": "SCSS",
+        "icon": "bash"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "bash"
+      },
+      {
+        "name": "React",
+        "icon": "bash"
+      },
+      {
+        "name": "Angular",
+        "icon": "bash"
+      },
+      {
+        "name": "Vue.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Sass",
+        "icon": "bash"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "bash"
+      },
+      {
+        "name": "jQuery",
+        "icon": "bash"
+      },
+      {
+        "name": "Webpack",
+        "icon": "bash"
+      },
+      {
+        "name": "Babel",
+        "icon": "bash"
+      },
+      {
+        "name": "ESLint",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Backend Technologies",
+    "skills": [
+      {
+        "name": "PHP",
+        "icon": "bash"
+      },
+      {
+        "name": "Python",
+        "icon": "bash"
+      },
+      {
+        "name": "SQL",
+        "icon": "bash"
+      },
+      {
+        "name": "TSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "PLpgSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "HCL",
+        "icon": "bash"
+      },
+      {
+        "name": "Node.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Ruby on Rails",
+        "icon": "bash"
+      },
+      {
+        "name": "Express.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Django",
+        "icon": "bash"
+      },
+      {
+        "name": "Flask",
+        "icon": "bash"
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "bash"
+      },
+      {
+        "name": "ASP.NET",
+        "icon": "bash"
+      },
+      {
+        "name": "Hibernate",
+        "icon": "bash"
+      },
+      {
+        "name": "Elixir",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Scripting and Automation",
+    "skills": [
+      {
+        "name": "Shell",
+        "icon": "bash"
+      },
+      {
+        "name": "Python",
+        "icon": "bash"
+      },
+      {
+        "name": "Bash",
+        "icon": "bash"
+      },
+      {
+        "name": "Perl",
+        "icon": "bash"
+      },
+      {
+        "name": "PowerShell",
+        "icon": "bash"
+      },
+      {
+        "name": "Awk",
+        "icon": "bash"
+      },
+      {
+        "name": "SED",
+        "icon": "bash"
+      },
+      {
+        "name": "Ruby",
+        "icon": "bash"
+      },
+      {
+        "name": "Lua",
+        "icon": "bash"
+      },
+      {
+        "name": "Groovy",
+        "icon": "bash"
+      },
+      {
+        "name": "R",
+        "icon": "bash"
+      },
+      {
+        "name": "Scala",
+        "icon": "bash"
+      },
+      {
+        "name": "Go",
+        "icon": "bash"
+      },
+      {
+        "name": "Swift",
+        "icon": "bash"
+      },
+      {
+        "name": "Kotlin",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Data Interchange and Storage",
+    "skills": [
+      {
+        "name": "JSON",
+        "icon": "bash"
+      },
+      {
+        "name": "SQL",
+        "icon": "bash"
+      },
+      {
+        "name": "TSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "PLpgSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "NoSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "bash"
+      },
+      {
+        "name": "Redis",
+        "icon": "bash"
+      },
+      {
+        "name": "Cassandra",
+        "icon": "bash"
+      },
+      {
+        "name": "Elasticsearch",
+        "icon": "bash"
+      },
+      {
+        "name": "Firebase",
+        "icon": "bash"
+      },
+      {
+        "name": "SQLite",
+        "icon": "bash"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "MySQL",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle",
+        "icon": "bash"
+      },
+      {
+        "name": "MariaDB",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Web Development",
+    "skills": [
+      {
+        "name": "HTML",
+        "icon": "bash"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "bash"
+      },
+      {
+        "name": "PHP",
+        "icon": "bash"
+      },
+      {
+        "name": "CSS",
+        "icon": "bash"
+      },
+      {
+        "name": "SCSS",
+        "icon": "bash"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "bash"
+      },
+      {
+        "name": "React",
+        "icon": "bash"
+      },
+      {
+        "name": "Angular",
+        "icon": "bash"
+      },
+      {
+        "name": "Vue.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Sass",
+        "icon": "bash"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "bash"
+      },
+      {
+        "name": "jQuery",
+        "icon": "bash"
+      },
+      {
+        "name": "Webpack",
+        "icon": "bash"
+      },
+      {
+        "name": "Babel",
+        "icon": "bash"
+      },
+      {
+        "name": "ESLint",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Database Management",
+    "skills": [
+      {
+        "name": "SQL",
+        "icon": "bash"
+      },
+      {
+        "name": "TSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "PLpgSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "NoSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "bash"
+      },
+      {
+        "name": "Redis",
+        "icon": "bash"
+      },
+      {
+        "name": "Cassandra",
+        "icon": "bash"
+      },
+      {
+        "name": "Elasticsearch",
+        "icon": "bash"
+      },
+      {
+        "name": "Firebase",
+        "icon": "bash"
+      },
+      {
+        "name": "SQLite",
+        "icon": "bash"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "bash"
+      },
+      {
+        "name": "MySQL",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle",
+        "icon": "bash"
+      },
+      {
+        "name": "MariaDB",
+        "icon": "bash"
+      },
+      {
+        "name": "DynamoDB",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Configuration Management",
+    "skills": [
+      {
+        "name": "HCL",
+        "icon": "bash"
+      },
+      {
+        "name": "Terraform",
+        "icon": "bash"
+      },
+      {
+        "name": "Ansible",
+        "icon": "bash"
+      },
+      {
+        "name": "Chef",
+        "icon": "bash"
+      },
+      {
+        "name": "Puppet",
+        "icon": "bash"
+      },
+      {
+        "name": "SaltStack",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS CloudFormation",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Resource Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud Deployment Manager",
+        "icon": "bash"
+      },
+      {
+        "name": "Vagrant",
+        "icon": "bash"
+      },
+      {
+        "name": "Docker Compose",
+        "icon": "bash"
+      },
+      {
+        "name": "Kubernetes",
+        "icon": "bash"
+      },
+      {
+        "name": "Helm",
+        "icon": "bash"
+      },
+      {
+        "name": "Nomad",
+        "icon": "bash"
+      },
+      {
+        "name": "Consul",
+        "icon": "bash"
+      },
+      {
+        "name": "Zookeeper",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Frontend Frameworks and Libraries",
+    "skills": [
+      {
+        "name": "React",
+        "icon": "bash"
+      },
+      {
+        "name": "Angular",
+        "icon": "bash"
+      },
+      {
+        "name": "Vue.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Sass",
+        "icon": "bash"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "bash"
+      },
+      {
+        "name": "jQuery",
+        "icon": "bash"
+      },
+      {
+        "name": "Webpack",
+        "icon": "bash"
+      },
+      {
+        "name": "Babel",
+        "icon": "bash"
+      },
+      {
+        "name": "ESLint",
+        "icon": "bash"
+      },
+      {
+        "name": "Redux",
+        "icon": "bash"
+      },
+      {
+        "name": "Ember.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Backbone.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Polymer",
+        "icon": "bash"
+      },
+      {
+        "name": "Stencil",
+        "icon": "bash"
+      },
+      {
+        "name": "Next.js",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Backend Frameworks and Libraries",
+    "skills": [
+      {
+        "name": "Laravel",
+        "icon": "bash"
+      },
+      {
+        "name": "Symfony",
+        "icon": "bash"
+      },
+      {
+        "name": "Django",
+        "icon": "bash"
+      },
+      {
+        "name": "Flask",
+        "icon": "bash"
+      },
+      {
+        "name": "Node.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Ruby on Rails",
+        "icon": "bash"
+      },
+      {
+        "name": "Express.js",
+        "icon": "bash"
+      },
+      {
+        "name": "Spring Boot",
+        "icon": "bash"
+      },
+      {
+        "name": "ASP.NET",
+        "icon": "bash"
+      },
+      {
+        "name": "Hibernate",
+        "icon": "bash"
+      },
+      {
+        "name": "Elixir",
+        "icon": "bash"
+      },
+      {
+        "name": "Phoenix",
+        "icon": "bash"
+      },
+      {
+        "name": "Gin",
+        "icon": "bash"
+      },
+      {
+        "name": "Flask-RESTful",
+        "icon": "bash"
+      },
+      {
+        "name": "FastAPI",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Version Control",
+    "skills": [
+      {
+        "name": "Git",
+        "icon": "bash"
+      },
+      {
+        "name": "SVN",
+        "icon": "bash"
+      },
+      {
+        "name": "Mercurial",
+        "icon": "bash"
+      },
+      {
+        "name": "Perforce",
+        "icon": "bash"
+      },
+      {
+        "name": "Bazaar",
+        "icon": "bash"
+      },
+      {
+        "name": "Fossil",
+        "icon": "bash"
+      },
+      {
+        "name": "Bitbucket",
+        "icon": "bash"
+      },
+      {
+        "name": "GitHub",
+        "icon": "bash"
+      },
+      {
+        "name": "GitLab",
+        "icon": "bash"
+      },
+      {
+        "name": "Gerrit",
+        "icon": "bash"
+      },
+      {
+        "name": "Phabricator",
+        "icon": "bash"
+      },
+      {
+        "name": "TFS",
+        "icon": "bash"
+      },
+      {
+        "name": "AWS CodeCommit",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure Repos",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud Source Repositories",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "APIs and Web Services",
+    "skills": [
+      {
+        "name": "REST",
+        "icon": "bash"
+      },
+      {
+        "name": "GraphQL",
+        "icon": "bash"
+      },
+      {
+        "name": "SOAP",
+        "icon": "bash"
+      },
+      {
+        "name": "gRPC",
+        "icon": "bash"
+      },
+      {
+        "name": "OpenAPI/Swagger",
+        "icon": "bash"
+      },
+      {
+        "name": "OAuth",
+        "icon": "bash"
+      },
+      {
+        "name": "JWT",
+        "icon": "bash"
+      },
+      {
+        "name": "XML-RPC",
+        "icon": "bash"
+      },
+      {
+        "name": "RSocket",
+        "icon": "bash"
+      },
+      {
+        "name": "Webhooks",
+        "icon": "bash"
+      },
+      {
+        "name": "Amazon API Gateway",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure API Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud Endpoints",
+        "icon": "bash"
+      },
+      {
+        "name": "Kong",
+        "icon": "bash"
+      },
+      {
+        "name": "Apigee",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Testing",
+    "skills": [
+      {
+        "name": "Unit Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Integration Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "End-to-End Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Static Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Dynamic Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Manual Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Automated Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Regression Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Load Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Stress Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Security Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Performance Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Usability Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Accessibility Testing",
+        "icon": "bash"
+      },
+      {
+        "name": "Compatibility Testing",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Cloud Services",
+    "skills": [
+      {
+        "name": "AWS",
+        "icon": "bash"
+      },
+      {
+        "name": "Google Cloud Platform",
+        "icon": "bash"
+      },
+      {
+        "name": "Azure",
+        "icon": "bash"
+      },
+      {
+        "name": "IBM Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Oracle Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Alibaba Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "DigitalOcean",
+        "icon": "bash"
+      },
+      {
+        "name": "Heroku",
+        "icon": "bash"
+      },
+      {
+        "name": "Salesforce",
+        "icon": "bash"
+      },
+      {
+        "name": "Rackspace",
+        "icon": "bash"
+      },
+      {
+        "name": "VMware Cloud",
+        "icon": "bash"
+      },
+      {
+        "name": "Red Hat OpenShift",
+        "icon": "bash"
+      },
+      {
+        "name": "Cloudflare",
+        "icon": "bash"
+      },
+      {
+        "name": "Linode",
+        "icon": "bash"
+      },
+      {
+        "name": "Scaleway",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "DevOps",
+    "skills": [
+      {
+        "name": "CI/CD",
+        "icon": "bash"
+      },
+      {
+        "name": "Docker",
+        "icon": "bash"
+      },
+      {
+        "name": "Concourse",
+        "icon": "bash"
+      },
+      {
+        "name": "Spinnaker",
+        "icon": "bash"
+      },
+      {
+        "name": "Terraform",
+        "icon": "bash"
+      },
+      {
+        "name": "CloudFormation",
+        "icon": "bash"
+      },
+      {
+        "name": "Ansible",
+        "icon": "bash"
+      },
+      {
+        "name": "Jenkins",
+        "icon": "bash"
+      },
+      {
+        "name": "CircleCI",
+        "icon": "bash"
+      },
+      {
+        "name": "Travis CI",
+        "icon": "bash"
+      },
+      {
+        "name": "GitLab CI",
+        "icon": "bash"
+      },
+      {
+        "name": "TeamCity",
+        "icon": "bash"
+      },
+      {
+        "name": "CodeShip",
+        "icon": "bash"
+      },
+      {
+        "name": "Spinnaker",
+        "icon": "bash"
+      },
+      {
+        "name": "Argo CD",
+        "icon": "bash"
+      },
+      {
+        "name": "Rancher",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "IDE",
+    "skills": [
+      {
+        "name": "PHPStorm",
+        "icon": "bash"
+      },
+      {
+        "name": "WebStorm",
+        "icon": "bash"
+      },
+      {
+        "name": "PyCharm",
+        "icon": "bash"
+      },
+      {
+        "name": "Android Studio",
+        "icon": "bash"
+      },
+      {
+        "name": "Xcode",
+        "icon": "bash"
+      },
+      {
+        "name": "Vim",
+        "icon": "bash"
+      },
+      {
+        "name": "Eclipse",
+        "icon": "bash"
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "icon": "bash"
+      },
+      {
+        "name": "Visual Studio",
+        "icon": "bash"
+      },
+      {
+        "name": "Visual Studio Code",
+        "icon": "bash"
+      },
+      {
+        "name": "Sublime Text",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Ticketing",
+    "skills": [
+      {
+        "name": "Jira",
+        "icon": "bash"
+      },
+      {
+        "name": "Trello",
+        "icon": "bash"
+      },
+      {
+        "name": "Asana",
+        "icon": "bash"
+      },
+      {
+        "name": "Monday.com",
+        "icon": "bash"
+      },
+      {
+        "name": "GitHub Issues",
+        "icon": "bash"
+      },
+      {
+        "name": "GitLab Issues",
+        "icon": "bash"
+      },
+      {
+        "name": "Bitbucket Issues",
+        "icon": "bash"
+      },
+      {
+        "name": "Zendesk",
+        "icon": "bash"
+      },
+      {
+        "name": "Linear",
+        "icon": "bash"
+      },
+      {
+        "name": "ServiceNow",
+        "icon": "bash"
+      },
+      {
+        "name": "Bugzilla",
+        "icon": "bash"
+      },
+      {
+        "name": "NetSuite",
+        "icon": "bash"
+      },
+      {
+        "name": "Trac",
+        "icon": "bash"
+      },
+      {
+        "name": "YouTrack",
+        "icon": "bash"
+      },
+      {
+        "name": "Mantis",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Systems Design",
+    "skills": [
+      {
+        "name": "System Architecture",
+        "icon": "bash"
+      },
+      {
+        "name": "Microservices",
+        "icon": "bash"
+      },
+      {
+        "name": "Monolithic Architecture",
+        "icon": "bash"
+      },
+      {
+        "name": "Service-Oriented Architecture (SOA)",
+        "icon": "bash"
+      },
+      {
+        "name": "Event-Driven Architecture",
+        "icon": "bash"
+      },
+      {
+        "name": "Domain-Driven Design (DDD)",
+        "icon": "bash"
+      },
+      {
+        "name": "Containerization",
+        "icon": "bash"
+      },
+      {
+        "name": "Serverless Architecture",
+        "icon": "bash"
+      },
+      {
+        "name": "Scalability",
+        "icon": "bash"
+      },
+      {
+        "name": "High Availability",
+        "icon": "bash"
+      },
+      {
+        "name": "Fault Tolerance",
+        "icon": "bash"
+      },
+      {
+        "name": "Load Balancing",
+        "icon": "bash"
+      },
+      {
+        "name": "Caching",
+        "icon": "bash"
+      },
+      {
+        "name": "Distributed Systems",
+        "icon": "bash"
+      },
+      {
+        "name": "API Design",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Systems Engineering",
+    "skills": [
+      {
+        "name": "Operating Systems",
+        "icon": "bash"
+      },
+      {
+        "name": "Linux",
+        "icon": "bash"
+      },
+      {
+        "name": "Unix",
+        "icon": "bash"
+      },
+      {
+        "name": "Windows Server",
+        "icon": "bash"
+      },
+      {
+        "name": "Networking",
+        "icon": "bash"
+      },
+      {
+        "name": "TCP/IP",
+        "icon": "bash"
+      },
+      {
+        "name": "GRPC Protobuff",
+        "icon": "bash"
+      },
+      {
+        "name": "Containers",
+        "icon": "bash"
+      },
+      {
+        "name": "Zero-Trust Workloads",
+        "icon": "bash"
+      },
+      {
+        "name": "Nitro Enclaves",
+        "icon": "bash"
+      },
+      {
+        "name": "Intel SGX",
+        "icon": "bash"
+      },
+      {
+        "name": "gVisor",
+        "icon": "bash"
+      },
+      {
+        "name": "Trusted Execution Environments",
+        "icon": "bash"
+      },
+      {
+        "name": "Solaris",
+        "icon": "bash"
+      },
+      {
+        "name": "Cryptographic Attestation",
+        "icon": "bash"
+      },
+      {
+        "name": "DNS",
+        "icon": "bash"
+      },
+      {
+        "name": "DHCP",
+        "icon": "bash"
+      },
+      {
+        "name": "Firewalls",
+        "icon": "bash"
+      },
+      {
+        "name": "Routers",
+        "icon": "bash"
+      },
+      {
+        "name": "Load Balancers",
+        "icon": "bash"
+      },
+      {
+        "name": "Virtualization",
+        "icon": "bash"
+      },
+      {
+        "name": "VMware",
+        "icon": "bash"
+      },
+      {
+        "name": "Hyper-V",
+        "icon": "bash"
+      },
+      {
+        "name": "KVM",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Data Structures & Algorithms",
+    "skills": [
+      {
+        "name": "Arrays",
+        "icon": "bash"
+      },
+      {
+        "name": "Linked Lists",
+        "icon": "bash"
+      },
+      {
+        "name": "Stacks",
+        "icon": "bash"
+      },
+      {
+        "name": "Queues",
+        "icon": "bash"
+      },
+      {
+        "name": "Trees",
+        "icon": "bash"
+      },
+      {
+        "name": "Graphs",
+        "icon": "bash"
+      },
+      {
+        "name": "Hash Tables",
+        "icon": "bash"
+      },
+      {
+        "name": "Sorting Algorithms",
+        "icon": "bash"
+      },
+      {
+        "name": "Searching Algorithms",
+        "icon": "bash"
+      },
+      {
+        "name": "Dynamic Programming",
+        "icon": "bash"
+      },
+      {
+        "name": "Big O Notation",
+        "icon": "bash"
+      },
+      {
+        "name": "Recursion",
+        "icon": "bash"
+      },
+      {
+        "name": "Bit Manipulation",
+        "icon": "bash"
+      },
+      {
+        "name": "Greedy Algorithms",
+        "icon": "bash"
+      },
+      {
+        "name": "Backtracking",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Blockchain/Crypto",
+    "skills": [
+      {
+        "name": "Blockchain",
+        "icon": "bash"
+      },
+      {
+        "name": "Smart Contracts",
+        "icon": "bash"
+      },
+      {
+        "name": "Cryptocurrency",
+        "icon": "bash"
+      },
+      {
+        "name": "Bitcoin",
+        "icon": "bash"
+      },
+      {
+        "name": "Ethereum",
+        "icon": "bash"
+      },
+      {
+        "name": "Hyperledger",
+        "icon": "bash"
+      },
+      {
+        "name": "Consensus Algorithms",
+        "icon": "bash"
+      },
+      {
+        "name": "Public/Private Key Encryption",
+        "icon": "bash"
+      },
+      {
+        "name": "Hash Functions",
+        "icon": "bash"
+      },
+      {
+        "name": "Digital Signatures",
+        "icon": "bash"
+      },
+      {
+        "name": "Wallets",
+        "icon": "bash"
+      },
+      {
+        "name": "Mining",
+        "icon": "bash"
+      },
+      {
+        "name": "Tokenization",
+        "icon": "bash"
+      },
+      {
+        "name": "Security Tokens",
+        "icon": "bash"
+      },
+      {
+        "name": "Decentralized Finance (DeFi)",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "ML/AI",
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "icon": "bash"
+      },
+      {
+        "name": "Deep Learning",
+        "icon": "bash"
+      },
+      {
+        "name": "Neural Networks",
+        "icon": "bash"
+      },
+      {
+        "name": "Natural Language Processing (NLP)",
+        "icon": "bash"
+      },
+      {
+        "name": "Computer Vision",
+        "icon": "bash"
+      },
+      {
+        "name": "Reinforcement Learning",
+        "icon": "bash"
+      },
+      {
+        "name": "Supervised Learning",
+        "icon": "bash"
+      },
+      {
+        "name": "Unsupervised Learning",
+        "icon": "bash"
+      },
+      {
+        "name": "Semi-Supervised Learning",
+        "icon": "bash"
+      },
+      {
+        "name": "Dimensionality Reduction",
+        "icon": "bash"
+      },
+      {
+        "name": "Regression Analysis",
+        "icon": "bash"
+      },
+      {
+        "name": "Classification Analysis",
+        "icon": "bash"
+      },
+      {
+        "name": "Clustering Analysis",
+        "icon": "bash"
+      },
+      {
+        "name": "Generative Adversarial Networks (GANs)",
+        "icon": "bash"
+      },
+      {
+        "name": "TensorFlow",
+        "icon": "bash"
+      }
+    ]
+  },
+  {
+    "grouping": "Soft Skills",
+    "skills": [
+      {
+        "name": "Problem-Solving",
+        "icon": "bash"
+      },
+      {
+        "name": "Communication",
+        "icon": "bash"
+      },
+      {
+        "name": "Analytical Thinking",
+        "icon": "bash"
+      },
+      {
+        "name": "Teamwork",
+        "icon": "bash"
+      },
+      {
+        "name": "Time Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Adaptability",
+        "icon": "bash"
+      },
+      {
+        "name": "Creativity",
+        "icon": "bash"
+      },
+      {
+        "name": "Leadership",
+        "icon": "bash"
+      },
+      {
+        "name": "Critical Thinking",
+        "icon": "bash"
+      },
+      {
+        "name": "Empathy",
+        "icon": "bash"
+      },
+      {
+        "name": "Conflict Resolution",
+        "icon": "bash"
+      },
+      {
+        "name": "Decision Making",
+        "icon": "bash"
+      },
+      {
+        "name": "Negotiation",
+        "icon": "bash"
+      },
+      {
+        "name": "Stress Management",
+        "icon": "bash"
+      },
+      {
+        "name": "Active Listening",
+        "icon": "bash"
+      }
+    ]
+  }
+]
