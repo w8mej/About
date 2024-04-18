@@ -16,7 +16,7 @@ highlight_theme = "OneHalfLight"
 first_name = "John"
 last_name = "Menerick"
 address = "Castro Valley, California"
-email = "john.menerick+cv@owasp.org"
+email = "john.menerick+se@owasp.org"
 favicon = "/favicon.ico"
 avatar = "/media/avatar.png"
 
