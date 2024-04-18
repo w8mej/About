@@ -1,7 +1,7 @@
 ---
 title: "About"
 ---
-### Hi there 👋 I'm John Menerick. An Information Security Engineer
+### Hi 👋 I'm John Menerick. An Information Security Engineer
 
 - 🌱 **I'm currently working on** Engineering, AI/ML infosec, Emergency Operations & Incident Response
 - 📫 **How to reach me: [Mail](mailto:john.menerick+SE@owasp.org) & [Digital Identities](https://keyoxide.org/sephiroth@haxx.ninja)**
