@@ -1,6 +1,6 @@
 base_url = "https://cv.securesql.info"
 compile_sass = true
-title = "Menerick: Securing Your Tomorrow, Today"
+title = "Menerick's CyberForge: Securing Your Tomorrow, Today"
 description = "Security Operator"
 generate_feed = true
 build_search_index = true
