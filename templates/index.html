@@ -37,5 +37,19 @@
                 {{ partial_section::display(title="blog",path="blog/_index.md") }}
             </div>
         {% endif %}
+        {% if config.extra.show_research %}
+        <div class="section hero is-fullheight page" id="research">
+            {{ partial_section::display(title="research",path="research/_index.md") }}
+        </div>
+    {% endif %}
     </div>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RLK3Z3HVT8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RLK3Z3HVT8');
+</script>
 {% endblock content %}

@@ -40,6 +40,11 @@
                 <a href="{{ get_url(path='/#anchor_blog') }}">BLOG POSTS</a>
             </li>
         {% endif %}
+        {% if config.extra.show_research %}
+        <li data-menuanchor="research">
+            <a href="{{ get_url(path='/#anchor_research') }}">R&D</a>
+        </li>
+    {% endif %}
     </ul>
 {% endmacro %}
 {% macro fullpage() %}
@@ -58,6 +63,7 @@
             {% if config.extra.show_credentials     %} 'anchor_credentials',   {% endif %}
             {% if config.extra.show_education       %} 'anchor_education',     {% endif %}
             {% if config.extra.show_blog            %} 'anchor_blog',          {% endif %}
+            {% if config.extra.show_research        %} 'anchor_research',      {% endif %}
         ],
         afterResize: function( width, height ){
 		    if (width < 936) {
