@@ -1,6 +1,7 @@
 {% import 'partials/about.html' as partial_about -%}
 {% import 'partials/skills.html' as partial_skills -%}
 {% import 'partials/experience.html' as partial_experience -%}
+{% import 'partials/credentials.html' as partial_credentials -%}
 {% import 'partials/education.html' as partial_education -%}
 {% import 'partials/section.html' as partial_section -%}
 {% extends "base.html" %}
@@ -24,6 +25,9 @@
         {% endif %}
         {% if config.extra.show_experience %}
             <div class="section hero is-fullheight page" id="experience">{{ partial_experience::display() }}</div>
+        {% endif %}
+        {% if config.extra.show_credentials %}
+            <div class="section hero is-fullheight page" id="credentials">{{ partial_credentials::display() }}</div>
         {% endif %}
         {% if config.extra.show_education %}
             <div class="section hero is-fullheight page" id="education">{{ partial_education::display() }}</div>

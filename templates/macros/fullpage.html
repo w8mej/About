@@ -25,6 +25,11 @@
                 <a href="{{ get_url(path='/#anchor_experience') }}">EXPERIENCE</a>
             </li>
         {% endif %}
+        {% if config.extra.show_credentials %}
+        <li data-menuanchor="credentials">
+            <a href="{{ get_url(path='/#anchor_credentials') }}">CREDENTIALS</a>
+        </li>
+        {% endif %}
         {% if config.extra.show_education %}
             <li data-menuanchor="education">
                 <a href="{{ get_url(path='/#anchor_education') }}">EDUCATION</a>
@@ -50,6 +55,7 @@
             {% if config.extra.show_projects        %} 'anchor_projects',      {% endif %}
             {% if config.extra.show_challengeaccepted      %} 'anchor_challengeaccepted',    {% endif %}
             {% if config.extra.show_experience      %} 'anchor_experience',    {% endif %}
+            {% if config.extra.show_credentials     %} 'anchor_credentials',   {% endif %}
             {% if config.extra.show_education       %} 'anchor_education',     {% endif %}
             {% if config.extra.show_blog            %} 'anchor_blog',          {% endif %}
         ],

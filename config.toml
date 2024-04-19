@@ -27,4 +27,5 @@ show_projects = true
 show_challengeaccepted = true
 show_experience = true
 show_education = true
+show_credentials = true
 show_blog = true
