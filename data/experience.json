@@ -1,20 +1,15 @@
 [
   {
-    "role": "Volunteer",
+    "role": "Volunteer Incident Management & Response",
     "company": "[Alameda County Sheriff's Office - Office of Emergency Services](https://www.acsct.org/)",
     "summary": "Provide critical emergency communications, coordinate with multiple agencies & entities, contribute to community preparedness through extensive volunteer service and technical expertise.",
     "range": ""
   },
   {
-    "role": "Lead",
-    "company": "[LMCU](https://lmcu.org/)",
-    "summary": "All things Information Security & IT Compliance at the 7th largest CU in the world.",
-    "range": ""
-  },
-  {
-    "role": "Lead - IC6",
-    "company": "[Oracle NS](https://www.netsuite.com/)",
-    "summary": "Took NetSuite thru its' IPO and exit journey while furiously executing on all things Security.",
-    "range": ""
-  } 
+    "role": "CV and Resume cryptographic proofs",
+    "company": "[Cryptographic Identities](https://keyoxide.org/sephiroth@haxx.ninja)",
+    "summary": "\r\n[Download JohnMenerick_pdf.sig](\/media\/JohnMenerick_pdf.sig) - GPG signature for the CV pdf.\r\n- [Download JohnMenerick_docx.sig](\/media\/JohnMenerick_docx.sig) - GPG signature for the CV word document.\r\n\r\n<br>My public CV and Resume are signed using GPG (GNU Privacy Guard), a tool for secure communication and data storage and my hardware security modules.  Signing artifacts & files helps to ensure that they have not been tampered with and remain exactly as originally published.\r\n\r\n**Why verify file signatures?**\r\n\r\nVerifying file signatures helps confirm the authenticity and integrity of the files. This is crucial for preventing the download and execution of tampered or malicious files. Also worth knowing if you have a document that has not been modified by me.  By verifying the signatures, you can trust that the files are exactly as I intended.\r\n\r\n**Accessing the Public Key**\r\n\r\nTo verify these signatures, you will need the corresponding public key. You can download the public key from the following URIs:\r\n- [Download Public Key](https:\/\/openpgpkey.haxx.ninja\/.well-known\/openpgpkey\/haxx.ninja\/hu\/s7jzzmyr53gdug46hydgz7kkjze95czo)\r\n- [John Menerick's keyoxide profile and cryptographic identities](https:\/\/keyoxide.org\/sephiroth@haxx.ninja)\r\n- Alternatively, you may grab my public key from your favorite public key server.\r\n\r\n\r\n<br>Please ensure you trust the source of the public key before using it to verify any signatures.\r\n\r\n\r\n<br>**Example of Signature Verification**\r\n```shell\r\n$ gpg --verify JohnMenerick_pdf.sig JohnMenerick.pdf\r\ngpg: Signature made Wed May 1 14:01:48 2024 PDT\r\ngpg:                using EDDSA key 43074142919F68F55EFE2B875304CD1A646948ED\r\ngpg: Good signature from \"John Menerick <crypto@haxx.ninja>\" [ultimate]\r\ngpg:                 aka \"John Menerick (Ham Radio) <w8mej@haxx.ninja>\" [ultimate]\r\ngpg:                 aka \"John Menerick (IP) <coding@haxx.ninja>\" [ultimate]\r\ngpg:                 aka \"John Menerick (General) <sephiroth@haxx.ninja>\" [ultimate]\r\ngpg:                 aka \"[jpeg image of size 684383]\" [ultimate]\r\nPrimary key fingerprint: 31E4 A5AB A427 601E AF2A BCE0 4643 6F93 8667 D7F6\r\n     Subkey fingerprint: 4307 4142 919F 68F5 5EFE 2B87 5304 CD1A 6469 48ED\r\n```\r\n\r\n**GPG Packet Details**\r\nBelow are the GPG packet details for the signature files, which can be useful for in-depth verification and troubleshooting:\r\n\r\n```shell\r\n$ gpg --list-packets JohnMenerick_pdf.sig\r\n# off=0 ctb=88 tag=2 hlen=2 plen=117\r\n:signature packet: algo 22, keyid 5304CD1A646948ED\r\n    version 4, created 1714597308, md5len 0, sigclass 0x00\r\n    digest algo 10, begin of digest e0 d4\r\n    hashed subpkt 33 len 21 (issuer fpr v4 43074142919F68F55EFE2B875304CD1A646948ED)\r\n    hashed subpkt 2 len 4 (sig created 2024-05-01)\r\n    subpkt 16 len 8 (issuer key ID 5304CD1A646948ED)\r\n    data: [254 bits]\r\n    data: [255 bits]\r\n```\r\n```\r\n$ gpg --list-packets JohnMenerick_docx.sig\r\n# off=0 ctb=88 tag=2 hlen=2 plen=117\r\n:signature packet: algo 22, keyid 5304CD1A646948ED\r\n\tversion 4, created 1714597418, md5len 0, sigclass 0x00\r\n\tdigest algo 10, begin of digest b3 45\r\n\thashed subpkt 33 len 21 (issuer fpr v4 43074142919F68F55EFE2B875304CD1A646948ED)\r\n\thashed subpkt 2 len 4 (sig created 2024-05-01)\r\n\tsubpkt 16 len 8 (issuer key ID 5304CD1A646948ED)\r\n\tdata: [254 bits]\r\n\tdata: [254 bits]\r\n```\r\n\r\n\r\n",
+     "range": ""
+}
 ]
+
