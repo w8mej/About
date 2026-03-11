@@ -7,17 +7,18 @@
             {% for group in data %}
                 <div style="padding-bottom: 1rem;">
                     <h3 style="color: #4a4a4a;">{{ group.grouping }}</h3>
-                    <div>
+                    <div class="skills-container">
                         {% for skill in group.skills %}
                             {% if "name" in skill %}
                                 {% if "icon" in skill %}
-                                    <span class="icon"><i class="devicon-{{ skill.icon | lower }}-plain"></i></span>{{ skill.name }}
+                                    <i class="devicon-{{ skill.icon | lower }}-plain"></i> {{ skill.name }}
                                 {% else %}
-                                    <span class="icon"><i class="devicon-{{ skill.name | lower }}-plain"></i></span>{{ skill.name }}
+                                    <i class="devicon-{{ skill.name | lower }}-plain"></i> {{ skill.name }}
                                 {% endif %}
                             {% else %}
-                                <span class="icon"><i class="devicon-{{ skill | lower }}-plain"></i></span>{{ skill }}
+                                <i class="devicon-{{ skill | lower }}-plain"></i> {{ skill }}
                             {% endif %}
+                            {% if not loop.last %} &nbsp; {% endif %}
                         {% endfor %}
                     </div>
                 </div>
