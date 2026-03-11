@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 4 Peeking into AI's flawed crystal ball where tomato plants dine in Wonderland and models dream up legal advice. Is AI's promise just a mirage in a desert of data, leading us astray with every guess?"
 taxonomies:
@@ -26,9 +26,9 @@ taxonomies:
 ---
 Another aspect is the design of adaptive generation strategies that adjust based on the context or the detected quality of the output so far. This might involve altering the prediction confidence thresholds in areas where the model is less certain, or leveraging external data sources to fill in gaps in the model's knowledge.  While great to utilize, these approaches are extremely limited in effectiveness due to the distribution of potential inputs to these models.  More on this below as there is a VERY long tail in this area of research.  For instance, look at this simple search related to tomato plants.  A lot of inputs involving tomato plants yet few involve turning yellow vs. approaching zero inputs for the input “tomato plants ate Alice in Wonderland?”  
 
-![ComplexSystems](/media/longtail.png)
+![ComplexSystems](/media/longtail.webp)
 
-![ComplexSystems](/media/longtail2.png)
+![ComplexSystems](/media/longtail2.webp)
 
 ### **Scalability and Evolution**
 
@@ -74,15 +74,15 @@ In the VC community & poorly trained computer scientists and mathematicians; the
 
 The "curse of dimensionality" is a concept from computer science that refers to the exponential increase in volume associated with adding extra dimensions to a mathematical space. In the context of LLMs, this refers to the vast, nearly infinite set of possible prompts (or inputs) the model might encounter. Despite a comprehensive training dataset, the space of potential inputs and the corresponding appropriate outputs is so large that the model can only be directly trained on a tiny fraction of all possibilities.  For example, is this a dog or cat?  When more dimensions are added, the end result in the image below shows it is neither because the data is further spread out from 0 (No) to 1 (Yes) and nothing is in the selection box.
 
-![Curse of Dimensionality](/media/cursedimension.png)
+![Curse of Dimensionality](/media/cursedimension.webp)
 
 This situation challenges the idea of a model naturally gravitating towards truth simply because of a large and diverse training dataset. The reality is that the model's performance significantly drops off when faced with prompts that deviate even slightly from its training data, highlighting a fundamental limitation in its ability to generalize from known to unknown contexts, IE prompts outside the input’s long tail of distribution like “tomato plant ate Alice in Wonderland?” mentioned previously.  
 
-![Curse of Dimensionality](/media/optimaldrift.png)
+![Curse of Dimensionality](/media/optimaldrift.webp)
 
 Which is why the LM creators aim for that magical sweet spot, unlike Alphabet’s recent Gemini launch where the Error and Bias numbers were acceptable to them, yet not acceptable to the users who asked simple factual questions like the one below
 
-![ChallengesBias](/media/geminilaunch.png)
+![ChallengesBias](/media/geminilaunch.webp)
 
 While it could be argued that a native american is a founding father of America, the other answers in their contexts are biased and in error.   There is 0% probability the images for the Pope and 3 other founding fathers is correct.  Approaching but never hitting 0%, the vikings may had a non-white member in some arcane historical context involving nomadic travelers.  So the best answer to put forth far up and to the left on the above chart?  Which gets us to tuning these models for information security related needs so optimal model complexity gets us closer to an acceptable error rate, limited bias with only an exponential increase in error rates and variances.
 

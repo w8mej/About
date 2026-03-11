@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 7 AI's journey from clumsy guesses to nuanced reasoning is fraught with cultural blunders and optimization hurdles. Can it truly ascend beyond pattern matching to grasp the complexities of human thought?"
 taxonomies:
@@ -30,21 +30,21 @@ At its core, machine learning involves finding the best parameters for a model t
 
 Gradient descent works by computing the gradient (or partial derivatives) of the loss function with respect to each parameter, indicating the direction to adjust the parameters to minimize the loss. For instance, look at this model learning as it slowly descends to an acceptable cost.
 
-![EnergyBasedModels](/media/gradient.png)
+![EnergyBasedModels](/media/gradient.webp)
 
 This process is fundamental in training deep learning models, enabling them to learn from data.  IE how to move from the high loss/cost mountain peaks towards the deep valleys where cost is low. Akin to a map descending a mountain.
 
-![ContextuallyAware](/media/uncanny.png)
+![ContextuallyAware](/media/uncanny.webp)
 
 ### **Gradient-Based Inference and Abstract Representation**
 
 Gradient-based inference and operating in an "abstract representation" space introduces the concept of differentiability in the context of neural networks. A system being "differentiable" means that we can calculate how changes in the input affect changes in the output, allowing for gradient-based optimization. By representing answers in an abstract, high-dimensional space, the model can optimize these representations to minimize the loss function, independent of the language or modality of the final output.
 
-![ContextuallyAware](/media/womenmakeup.png)
+![ContextuallyAware](/media/womenmakeup.webp)
 
 This abstract representation captures the "space of concepts" rather than being tied to specific sensory inputs, enabling more versatile and generalizable AI systems.  A poor example would be the snake detection below.  Or another failure involving only certain cultures wear makeup so when presented with individuals from that background to answer the question “biological male or female or X where X could be a variety of choices?” The model picks up on the space of concepts (makeup applied to the face vs. not) vs. specific biological gender attributes, Adam’s Apple for instance, to to make a determination.  Which resulted in obvious failures when presented headshots from different cultures including individuals who did and did not wear makeup.   Now imagine such a failure as applied to critical information security workloads within sensitive environments where said system is reviewing who piggy backed into the office or snuck into a data center.  
 
-![ContextuallyAware](/media/notasmake.png)
+![ContextuallyAware](/media/notasmake.webp)
 
 ### **Energy-Based Models (EBMs)**
 

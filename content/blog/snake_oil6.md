@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 6 diving into the dream (and drama) of AI security startups: Can they really evolve past today’s AI limitations, or are they peddling future fantasies on present-day hardware?"
 taxonomies:
@@ -38,11 +38,11 @@ In these information security use cases, these systems will need to move towards
 
 This effort/energy approach aligns with the principles of computer systems science, especially in terms of creating more sophisticated, efficient, and adaptive computational models. The transition to energy-based models (EBMs are a type of canonical ensemble formulation of statistical physics)
 
-![EnergyBasedModels](/media/grabrobothand.png)
+![EnergyBasedModels](/media/grabrobothand.webp)
 
  that optimize over an abstract representation space implies a move towards systems that can infer latent variables and relationships, akin to probabilistic models or graphical models in traditional machine learning.  
 
-![ContextuallyAware](/media/contextsemantics.png)
+![ContextuallyAware](/media/contextsemantics.webp)
 
 This requires the system to understand the context and semantics at a much deeper level, using a scalar output as a measure of the answer's appropriateness to the given prompt.
 

@@ -4,7 +4,7 @@ date: 2024-01-01T14:13:14.674Z
 extra:
   featured: true
   link: https://github.com/huggingface/datasets
-  image: /media/tvmeops.png
+  image: /media/tvmeops.webp
 description: I focus on managing threats, vulnerabilities, incidents, and emergencies by prioritizing risk-based actions and fostering a culture of proactive security. This approach ensures swift, effective responses and continuous improvement in our defenses against evolving threats. For instance, below are my KPI measurements from a recent employer.
 taxonomies:
   tags:

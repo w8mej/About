@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 3 diving into the AI's magic show where spells often turn to frogs, revealing the messy reality behind autoregressive models' dazzling promises. Are we trading cookies for frogs in the name of progress?"
 taxonomies:
@@ -30,7 +30,7 @@ Sadly, I write this as one who specializes in computer science, computer systems
 
 At a most fundamental level systems are composed of components that interact with one another to one degree or another. Some components and their interactions act to form a boundary giving definition to the objectness of the system. Boundaries may be indistinct or fuzzy, but we don't recognize something as a system unless a discernable boundary exists. Systems exist within an embedding environment, and generally systems can exchange some of their components with other systems (entities) in that environment. They definitely exchange energy with the environment. Finally, the components of systems are themselves, systems. That is, components can be decomposed to expose inner sub-components. The inverse is true as well. All systems, by virtue of being embedded in environments, are components in larger systems — super systems.
 
-![ComplexSystems](/media/systems.png)
+![ComplexSystems](/media/systems.webp)
 
 ### **Understanding and Modeling Complex Systems**
 
@@ -42,7 +42,7 @@ Additionally, this approach encourages the development of comprehensive testing 
 
 Imagine what the same (genetic) code but with a different environment would produce?
 
-![Evolutionary](/media/evolution.png)
+![Evolutionary](/media/evolution.webp)
 
 Ask your middleware information security service prospect on their technical error management strategies with regards to real-world scenarios.  If you are lucky, they will state something akin to test environments, simulated attackers, comprehensive test suites, and similar black-box methods.  It is ok if they have something because this question is really a trap.  If they don’t have a tangible answer, that is worse and you are strongly encouraged to address your acceptable assurance metrics in the contract(s.)
 
@@ -50,7 +50,7 @@ Ask your middleware information security service prospect on their technical err
 
 The design of any complex system requires strategies for managing and mitigating errors. In autoregressive LMs, as mentioned above, errors can compound and lead to exponential decreases in output quality. Systems Engineering provides methodologies for predicting, identifying, and correcting errors. For instance, incorporating redundancy, creating error detection mechanisms, and designing adaptive feedback loops can help manage the error propagation.  For instance, in Neon Evangelion, the three different AI systems called Magi had different “personalities” with a corresponding conflict resolution workflow when their output on the same input disagreed.  Or they would defer to the irrational human.
 
-![Evolutionary](/media/magi.png)
+![Evolutionary](/media/magi.webp)
 
 ### **Optimization of Performance and Reliability**
 
@@ -64,23 +64,23 @@ Even asking this simple question to the leading autoregressive modes, ChatGPT, G
 
 The Code Red worm was a computer worm observed on the internet for the first time in July 2001. It targeted computers running Microsoft's IIS web server. The worm exploited a buffer overflow vulnerability in the indexing software used by IIS, allowing it to run arbitrary code on affected servers. Once infected, the worm would replicate itself and scan for other vulnerable systems, contributing to its rapid spread. Notably, it also defaced web pages on infected servers, displaying the message "Hacked by Chinese!" on the homepage.
 
-![SigmaCodeRedGPT](/media/gptsigma.png)
+![SigmaCodeRedGPT](/media/gptsigma.webp)
 
 What is interesting is that this LM provided the closest production-ready answer but sadly was still off the mark.  When asked to suggest improvements to the rule and implement the improvements; this is what we end up with
 
-![SigmaCodeRedGPT](/media/gptsigma2.png)
+![SigmaCodeRedGPT](/media/gptsigma2.webp)
 
 So let’s assume we create amazing prompts to efficiently obtain a high value, low effort rule, we end up with something that isn’t bad for a first effort.  But this rule has high runtime costs and is extremely greedy, not to mention doesn’t address the second detection mechanism - abnormal http/https traffic behaviors such as volume and packets per second.  This section is where the middleware information security snakeoil startups have their magic sauce, IP, and effort - low effort & cost to obtain simple Sigma rules for detecting an Internet-enabled worm well studied and understood for 22+ years. So we can give them the benefit of doubt by assuming these outputs come with contractual assurance and liability guarantees.
 
 #### Claude
 
-![SigmaClaude](/media/Claude.png)
+![SigmaClaude](/media/Claude.webp)
 
 Code Red doesn’t have anything to do with Remote Desktop services nor Terminal Services.  Much less doesn’t always originate from the 198 and 207 IP space.  Unacceptable failure.
 
 #### Gemini
 
-![Gemini](/media/gemini.png)
+![Gemini](/media/gemini.webp)
 
 Closer to the mark but the log source assumes a SecurityEvent is already created which mentions the afflicted files.  Which is a bit Catch 22.  Yet the false positives when the Indexing Service mentions the afflicted files is exactly one of the telemetry signals one could use to investigate further, not normalize away. The interesting observation is that they say to tune this to your environment and technology stack.  Which is a kind of “Get Out of Jail Free” card when the ouput is error laden and ineffective at best, assurance destroying at worst.
 

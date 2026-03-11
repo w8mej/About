@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 8 exploring AI's shadow realm where 'Z' dictates destiny, guiding systems from hollow echoes to rich dialogues. Can the unseen forces within AI break the cycle of 'Money' answers, or will creativity collapse under uniformity's weight?"
 taxonomies:
@@ -32,7 +32,7 @@ Latent variables ('Z') play a critical role in complex systems, especially those
 
 Training an AI system with a focus on latent variables involves carefully designing the model's architecture and loss functions to ensure that 'Z' captures the essence of the input data's underlying structure. This process requires methods to prevent model collapse—a scenario where the model generates overly simplified or homogeneous outputs, IE energy spent is 0 if I always answer with NULL or nothing.  This collapse results in the model losing its ability to produce varied and nuanced responses.  Hence the race to the bottom incentive that inherent to this approach.  For instance with poor examples, most questions that are not STEM in nature can be simply answered: Money.  Why did the British Empire fall?  Money.  Why did X happen?  Money….  How did Bob get to work?  Money.   While this Money (0 / NULL) answer may work for far too many prompts, it isn’t answering the context and reasoning why.  Hence the importance of maintaining diversity in the model's outputs and the subtle mechanisms by which language models currently achieve this balance.
 
-![ContextuallyAware](/media/racebottom.png)
+![ContextuallyAware](/media/racebottom.webp)
 
 ### **Implicit Mechanisms in Language Models**
 

@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 9 diving into the reality behind AI’s promise to revolutionize Information Security, where hype meets hard truths, and the cost of innovation skyrockets. Are we chasing dreams or tangible security solutions?"
 taxonomies:
@@ -33,7 +33,7 @@ The hype cycle serves as a graphical representation of the maturity, adoption, a
 
 AI, in particular, has journeyed through cycles of exaggerated anticipation regarding its potential to replicate human intelligence, only to confront the hard realities of its limitations. Similarly, the Information Security domain has grappled with the promise and sometimes the overpromise, of safeguarding digital assets amidst an ever-evolving threat landscape.
 
-![Startup](/media/aicycle.png)
+![Startup](/media/aicycle.webp)
 
 ### **The Convergence of AI and Information Security**
 

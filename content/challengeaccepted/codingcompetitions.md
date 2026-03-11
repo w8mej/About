@@ -64,72 +64,72 @@ I thrive on competing in coding competitions worldwide, relishing the blend of c
 # Sphere Online Judge
 
 <a href="https://www.spoj.com/users/w8mej/">
-    <img align="center" alt="SPOJ Profile" src="/media/spoj.png">
+    <img align="center" alt="SPOJ Profile" src="/media/spoj.webp">
 </a>
 
 # Coding Game
 
 <a href="https://www.codingame.com/profile/9b779c738389ca2dc904a78814cd7b834044395">
-    <img align="center" alt="Coding Game" src="/media/codinggame.png">
+    <img align="center" alt="Coding Game" src="/media/codinggame.webp">
 </a>
 
 # Exercism
 
 <a href="https://exercism.org/profiles/w8mej">
-    <img align="center" alt="Exercism Profile" src="/media/exercism.png">
+    <img align="center" alt="Exercism Profile" src="/media/exercism.webp">
 </a>
 
 # Code Forces
 
 <a href="https://codeforces.com/profile/w8mej">
-    <img align="center" alt="Codeforces Profile" src="/media/codeforces.png">
+    <img align="center" alt="Codeforces Profile" src="/media/codeforces.webp">
 </a>
 
 # Code Chef
 
 <a href="https://www.codechef.com/users/w8mej">
-    <img align="center" alt="CodeChef Profile" src="/media/codechef.png">
+    <img align="center" alt="CodeChef Profile" src="/media/codechef.webp">
 </a>
 
 # Hacker Earth
 
 <a href="https://www.hackerearth.com/@w8mej">
-    <img align="center" alt="HackerEarth Profile" src="/media/hackerearth.png">
+    <img align="center" alt="HackerEarth Profile" src="/media/hackerearth.webp">
 </a>
 
 # Coder Byte
 
 <a href="https://coderbyte.com/profile/w8mej">
-    <img align="center" alt="CoderByte Profile" src="/media/coderbyte.png">
+    <img align="center" alt="CoderByte Profile" src="/media/coderbyte.webp">
 </a>
 
 # Code Wars
 
 <a href="https://www.codewars.com/users/w8mej">
-    <img align="center" alt="CodeWars Profile" src="/media/codewars.png">
+    <img align="center" alt="CodeWars Profile" src="/media/codewars.webp">
 </a>
 
 # Geeks For Geeks
 
 <a href="https://auth.geeksforgeeks.org/user/w8mej">
-    <img align="center" alt="GeeksForGeeks Profile" src="/media/geeksforgeeks.png">
+    <img align="center" alt="GeeksForGeeks Profile" src="/media/geeksforgeeks.webp">
 </a>
 
 # Hacker Rank
 
 <a href="https://www.hackerrank.com/profile/w8mej">
-    <img align="center" alt="HackerRank Profile" src="/media/hackerrank.png">
+    <img align="center" alt="HackerRank Profile" src="/media/hackerrank.webp">
 </a>
 
 # LightOJ
 
 <a href="https://lightoj.com/user/w8mej">
-    <img align="center" alt="LightOJ Profile" src="/media/lightoj.png">
+    <img align="center" alt="LightOJ Profile" src="/media/lightoj.webp">
 </a>
 
 # Beecrowd
 
 <a href="https://judge.beecrowd.com/en/profile/944921">
-    <img align="center" alt="BeeCrowd Profile" src="/media/beecrowd.png">
+    <img align="center" alt="BeeCrowd Profile" src="/media/beecrowd.webp">
 </a>
 

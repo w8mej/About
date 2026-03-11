@@ -4,7 +4,7 @@ date: 2024-01-01T14:13:14.674Z
 extra:
   featured: true
   link: https://github.com/w8mej
-  image: /media/githubstats.png
+  image: /media/githubstats.webp
 description: John Menerick's Github metadata
 taxonomies:
   tags:

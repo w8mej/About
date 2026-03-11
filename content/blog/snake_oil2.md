@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 2 diving into the hype, we unravel the truth behind startups using AI as their secret sauce. Autoregressive LMs like ChatGPT might dazzle, but when the glitter settles, the limitations—especially in infosec—reveal a gamble where the stakes are sky-high and the odds, well, exponential."
 taxonomies:
@@ -37,14 +37,14 @@ But why is this a problem when best effort may be acceptable for many infosec pr
 
 Remember, we are not talking about linear rates, but exponential
 
-![LinearExpo](/media/linexpo.png)
+![LinearExpo](/media/linexpo.webp)
 
 ### **Implications for Language Models**
 
 - **Error Accumulation: The compounding nature of errors means that longer texts are more likely to contain inaccuracies or incoherencies. This is particularly relevant for complex or nuanced topics where precision is crucial.**
 - **Quality Control Challenges:** Ensuring the reliability of output from autoregressive LMs becomes increasingly difficult as the text lengthens. This necessitates sophisticated mechanisms for error detection and correction, which are active areas of research.
 
-![AiIsHumans](/media/gptsecretishumans.png)
+![AiIsHumans](/media/gptsecretishumans.webp)
 
 - <https://www.nytimes.com/2023/09/25/technology/chatgpt-rlhf-human-tutors.html>
 - **Design Considerations for AI Systems:** Understanding the nature of error propagation in autoregressive models is critical for designing better AI systems. Creators and consumers must account for the exponential increase in error probability, perhaps by incorporating corrective feedback loops, utilizing more context-aware generation strategies, or developing models that can better handle the dependencies and nuances of language.  More on these points below as this is an extremely active area of theoretical mathematical, applied mathematical, and informatics research.

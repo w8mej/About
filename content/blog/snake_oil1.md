@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 1 of a series diving into AI's cybersecurity hype, I reveal how LLMs promise much yet often deliver generic fixes that miss the mark. My critique explores the gap between AI's allure and its actual utility, urging a balanced approach that combines AI's power with human insight."
 taxonomies:
@@ -27,7 +27,7 @@ Over the past few months, I was asked to look into yet another “Llama, ChatGPT
 
 The challenge I have with these services is that they rely upon technology and workflows that are not designed nor will achieve the outcomes desired unless equity is the startup investors’ only product.  Where the middleware startup is aligned to cashing out as soon as possible to gullible limited partners while showing traction by having their LPs’ networks purchase said middleware as quick as possible.
 
-![Startup Equity](/media/equityproduct.png)
+![Startup Equity](/media/equityproduct.webp)
 
 Looking from the buyer side, it isn’t clear to me the buyers are aware of AI snake oils’ inherent limitations and failures to approach certain business needs.  For instance, when one looks at the remediation and identification of threats, actors, and evil practices; most of the applicable Information Security program metrics will approach and trend towards negative outcomes at best;  
 
@@ -56,6 +56,6 @@ Now, let's say you're trying to make sure your whole story makes sense. If you j
 
 These methods how LMs operate are like writing a story. The AI picks one word at a time (like spinning the wheel) to add to the text it's generating. Even if there's just a small chance of picking a word that doesn't quite fit, the longer the text, the more likely it is that the AI will end up including some words or phrases that don't make sense. This problem gets worse pretty quickly as the text gets longer, because the chances of staying perfectly on track go down a lot with each word it adds.  Then before you know it, your friend thinks you are crazy, your reputation ruined, and later are asked to be fired from your role because you lost their trust.
 
-![LM Design](/media/modaldesign.png)
+![LM Design](/media/modaldesign.webp)
 
 ### [Continued in Part 2 of 9](../snake-oil2/)

@@ -6,7 +6,7 @@ extra:
   link: https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
   bibtex: /media/nltp.bib
   pubtype: Article
-  image: /media/aisnakeoil.png
+  image: /media/aisnakeoil.webp
 
 description: "Part 5 fine-tuning AI is like teaching a parrot literature; expect poetry about birds! Delve into the chaos where models trip over reality's unpredictability. Is AI's future just a series of well-meaning stumbles?"
 taxonomies:
@@ -27,13 +27,13 @@ taxonomies:
 
 Fine-tuning the model on a wide array of questions is a limited strategy to improve performance. Fine-tuning involves adjusting a pre-trained model's parameters slightly to better fit a specific task or domain such as vulnerability remediation or incident response agent reasoning. While effective to an extent, fine-tuning cannot overcome the inherent limitations posed by the curse of dimensionality. The diversity and complexity of potential inputs mean that it's practically impossible to cover all bases, leading to situations where the model may generate nonsensical or wildly inaccurate responses to unexpected prompts.  For instance, a base LM trained on birds and supervised training on literature will result in birds in literature, literally.
 
-![TuningBirds](/media/finetuned.png)
+![TuningBirds](/media/finetuned.webp)
 
 ### **Understanding Prompts and Model Limitations**
 
 Even small changes or the introduction of elements not seen during training (like mixing languages) can "jailbreak" the model, causing it to produce irrelevant or incorrect outputs. This underscores the sensitivity of LLMs to their input and the difficulty in creating models that can robustly handle a wide range of inputs without error.  IE how do they handle the Butterfly effect made mainstream popular by Jeff Goldblum?  
 
-![ChaosTheory](/media/chaostheory.png)
+![ChaosTheory](/media/chaostheory.webp)
 
 ### **Implications for Computer Systems Science**
 
