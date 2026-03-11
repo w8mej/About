@@ -30,6 +30,8 @@
         <meta name="description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
         
         <!-- Preloads -->
+        <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fontsource/saira-extra-condensed@4.5.0/files/saira-extra-condensed-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fontsource/open-sans@4.5.0/files/open-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
         <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fontsource/saira-extra-condensed@4.5.0/index.min.css" as="style">
         <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fontsource/open-sans@4.5.0/index.min.css" as="style">
         <link rel="preload" href="{{ get_url(path=config.extra.avatar) }}" as="image">
