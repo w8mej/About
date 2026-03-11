@@ -57,7 +57,10 @@
             <figure class="image">
                 <img id="avatar"
                      class="is-rounded"
-                     src="{{ get_url(path=config.extra.avatar) }}">
+                     src="{{ get_url(path=config.extra.avatar) }}"
+                     alt="{{ config.extra.first_name }} {{ config.extra.last_name }}'s Avatar"
+                     width="160"
+                     height="160">
             </figure>
         </div>
     {% endif %}

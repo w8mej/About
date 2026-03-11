@@ -44,7 +44,10 @@
         <li data-menuanchor="research">
             <a href="{{ get_url(path='/#anchor_research') }}">R&D</a>
         </li>
-    {% endif %}
+        {% endif %}
+        <li>
+            <a href="{{ get_url(path='/privacy/') }}">PRIVACY</a>
+        </li>
     </ul>
 {% endmacro %}
 {% macro fullpage() %}
@@ -53,6 +56,7 @@
     <script type="text/javascript">
     var fullpages = new fullpage('#fullpage', {
         menu: '#menu',
+        licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
         setRecordHistory: false,
         anchors: [
             {% if config.extra.show_about           %} 'anchor_about',         {% endif %}

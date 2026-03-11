@@ -18,7 +18,7 @@ last_name = "Menerick"
 address = "Castro Valley, California"
 email = "john.menerick+se@owasp.org"
 favicon = "/favicon.ico"
-avatar = "/media/avatar.png"
+avatar = "/media/avatar.webp"
 
 katex = false
 show_about = true

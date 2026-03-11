@@ -1,0 +1,43 @@
+# John Menerick — Distinguished Security Engineer
+
+> John Menerick is a Distinguished Information Security Engineer based in Castro Valley,
+> California. He specializes in AI/ML security, zero-trust architecture, confidential
+> computing, and detection & response systems. This site is his professional CV, research
+> portfolio, and technical blog (Menerick's CyberForge).
+
+## Professional Profile
+
+- [About John Menerick](https://cv.securesql.info/): Overview of specializations, philosophy,
+  and current research focus including tamper-evident Zero-Trust workloads and AI/ML infosec.
+
+## Technical Research & Projects
+
+- [Security Vulnerability Portfolio](https://cv.securesql.info/projects/): 24+ documented
+  vulnerability discoveries spanning Apache Jetty/SOLR, Google Translate, Wikipedia XSS,
+  Cloud9 XSS/RCE, jQuery XSS, CNN XSS, and multiple botnet analyses.
+- [R&D and Community Contributions](https://cv.securesql.info/research/): Research spanning
+  Kubernetes security, DARPA Cyber Grand Challenge (Team Shellphish), DARPA AIxCC,
+  MISP threat intelligence, and startup security architecture.
+
+## Technical Blog
+
+- [Menerick's CyberForge Blog](https://cv.securesql.info/blog/): Critical analysis series
+  on AI/ML limitations in cybersecurity.
+- [Part 1 — The Cyber AI Hustle](https://cv.securesql.info/blog/snake-oil1/)
+- [Part 2 — The Probability Problem](https://cv.securesql.info/blog/snake-oil2/)
+
+## Credentials & Education
+
+- CISSP (ISC²), Oracle OCI Foundations/Data/AI, FEMA ICS (IS-100/200/700/800),
+  FCC General Class (W8MEJ)
+- Michigan Technological University — B.S. Computer Science, B.S. Computer Systems
+  Science, B.S. Business Systems and Finance
+
+## External Profiles
+
+- [GitHub (w8mej)](https://github.com/w8mej)
+- [Keyoxide Identity](https://keyoxide.org/sephiroth@haxx.ninja)
+
+## Optional
+
+- [Sitemap](https://cv.securesql.info/sitemap.xml)

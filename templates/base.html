@@ -8,19 +8,141 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="viewport"
-              content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
+              content="width=device-width, initial-scale=1.0, maximum-scale=5, viewport-fit=cover">
         <title>
             {% block title %}
-                {{ config.title }}
+                {% if current_path == "/" or current_path == "" %}
+                    John Menerick — CISSP-Certified Information Security Engineer | Castro Valley, CA
+                {% elif page %}
+                    {% if page.path is starting_with("/blog/") %}
+                        {{ page.title }} — John Menerick
+                    {% else %}
+                        {{ page.title }} — John Menerick, CISSP | Information Security Engineer
+                    {% endif %}
+                {% elif section %}
+                    {{ section.title | capitalize }} — John Menerick, CISSP | Information Security Engineer
+                {% else %}
+                    {{ config.title }}
+                {% endif %}
             {% endblock title %}
         </title>
+        <meta name="description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
+        
+        <!-- Preloads -->
+        <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fontsource/saira-extra-condensed@4.5.0/index.min.css" as="style">
+        <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fontsource/open-sans@4.5.0/index.min.css" as="style">
+        <link rel="preload" href="{{ get_url(path=config.extra.avatar) }}" as="image">
+        
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="{% if page %}article{% else %}website{% endif %}">
+        <meta property="og:url" content="{{ current_url | safe }}">
+        <meta property="og:title" content="{% if page %}{{ page.title }}{% elif section %}{{ section.title | capitalize }}{% else %}{{ config.title }}{% endif %}">
+        <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
+        <meta property="og:image" content="{{ get_url(path=config.extra.avatar) | safe }}">
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="{{ current_url | safe }}">
+        <meta property="twitter:title" content="{% if page %}{{ page.title }}{% elif section %}{{ section.title | capitalize }}{% else %}{{ config.title }}{% endif %}">
+        <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
+        <meta property="twitter:image" content="{{ get_url(path=config.extra.avatar) | safe }}">
+        <meta property="twitter:site" content="@W8MEJ">
+
         {{ macros_head::stylesheet() }}
         {{ macros_head::javascript() }}
         {% block rss %}{{ macros_head::rss() }}{% endblock %}
         {% block extra_head %}
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://cv.securesql.info/#person",
+              "name": "John Menerick",
+              "givenName": "John",
+              "familyName": "Menerick",
+              "url": "https://cv.securesql.info/",
+              "jobTitle": "Information Security Engineer",
+              "description": "Information Security Engineer specializing in AI/ML infosec, Zero-Trust architecture, cloud security, DevSecOps, and digital forensics and incident response. CISSP-certified with triple B.Sc. degrees from Michigan Technological University.",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Castro Valley",
+                "addressRegion": "CA",
+                "addressCountry": "US"
+              },
+              "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Michigan Technological University",
+                "url": "https://www.mtu.edu/"
+              },
+              "hasCredential": [
+                {
+                  "@type": "EducationalOccupationalCredential",
+                  "name": "CISSP",
+                  "credentialCategory": "Professional Certification",
+                  "recognizedBy": { "@type": "Organization", "name": "ISC²", "url": "https://www.isc2.org/" }
+                },
+                {
+                  "@type": "EducationalOccupationalCredential",
+                  "name": "FCC General Class Amateur Radio License (W8MEJ)",
+                  "credentialCategory": "Government License",
+                  "recognizedBy": { "@type": "GovernmentOrganization", "name": "Federal Communications Commission", "url": "https://www.fcc.gov/" }
+                }
+              ],
+              "knowsAbout": [
+                "Application Security", "AI/ML Security", "Cloud Security",
+                "Cryptography", "DevSecOps", "Digital Forensics and Incident Response",
+                "Identity and Access Management", "Kubernetes Security", "Network Security",
+                "Threat Intelligence", "Vulnerability Management", "Zero-Trust Architecture",
+                "Oracle Cloud Infrastructure", "Emergency Operations"
+              ],
+              "sameAs": [
+                "https://github.com/w8mej",
+                "https://gitlab.com/w8mej",
+                "https://twitter.com/w8mej",
+                "https://bitbucket.org/w8mej",
+                "https://www.hackerrank.com/profile/w8mej",
+                "https://hub.docker.com/u/projectnexus",
+                "https://keyoxide.org/sephiroth@haxx.ninja"
+              ]
+            },
+            {
+              "@type": "ProfilePage",
+              "@id": "https://cv.securesql.info/#profilepage",
+              "name": "John Menerick — Information Security Engineer CV",
+              "url": "https://cv.securesql.info/",
+              "description": "Professional CV and portfolio for John Menerick, CISSP-certified Information Security Engineer based in Castro Valley, California.",
+              "inLanguage": "en-US",
+              "mainEntity": { "@id": "https://cv.securesql.info/#person" }
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://cv.securesql.info/#website",
+              "name": "Menerick's CyberForge",
+              "url": "https://cv.securesql.info/",
+              "author": { "@id": "https://cv.securesql.info/#person" },
+              "inLanguage": "en-US"
+            }
+          ]
+        }
+        </script>
         {% endblock extra_head %}
     </head>
     <body>
+        <div id="cookie-notice" style="display: none; position: fixed; bottom: 1rem; right: 1rem; background: #fff; color: #000; padding: 1rem; border-radius: 4px; border: 1px solid #ccc; z-index: 1000; max-width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            <p style="margin-bottom: 0.5rem; font-size: 0.875rem;">This site uses cookies (Google Analytics & Zaraz) to ensure you get the best experience. <a href="/privacy/" style="text-decoration: underline;">Learn more</a>.</p>
+            <button onclick="acceptCookies()" style="background: #3273dc; color: #fff; border: none; padding: 0.25rem 0.75rem; border-radius: 4px; cursor: pointer; font-weight: bold;">Accept</button>
+        </div>
+        <script>
+            function acceptCookies() {
+                localStorage.setItem('cookiesAccepted', 'true');
+                document.getElementById('cookie-notice').style.display = 'none';
+            }
+            if (!localStorage.getItem('cookiesAccepted')) {
+                document.getElementById('cookie-notice').style.display = 'block';
+            }
+        </script>
         <aside id="sidebar" class="menu is-hidden-touch">
             {{ macros_head::avatar() }}
             {{ macros_fullpage::menu() }}
