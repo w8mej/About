@@ -2,15 +2,17 @@ base_url = "https://cv.securesql.info"
 compile_sass = true
 title = "Menerick's CyberForge: Securing Your Tomorrow, Today"
 description = "Security Operator"
-generate_feed = true
+generate_feeds = true
+feed_filenames = ["atom.xml"]
 build_search_index = true
 taxonomies = [
-  { name = "tags", feed = true },
+  { name = "tags", generate_feeds = true },
 ]
 
 [markdown]
-highlight_code = true
-highlight_theme = "OneHalfLight"
+[markdown.highlighting]
+code = true
+theme = "catppuccin-mocha"
 
 [extra]
 first_name = "John"

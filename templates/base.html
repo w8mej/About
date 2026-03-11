@@ -11,7 +11,7 @@
               content="width=device-width, initial-scale=1.0, maximum-scale=5, viewport-fit=cover">
         <title>
             {% block title %}
-                {% if current_path == "/" or current_path == "" %}
+                {% if current_path is defined and (current_path == "/" or current_path == "") %}
                     John Menerick — CISSP-Certified Information Security Engineer | Castro Valley, CA
                 {% elif page %}
                     {% if page.path is starting_with("/blog/") %}
@@ -35,14 +35,14 @@
         
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="{% if page %}article{% else %}website{% endif %}">
-        <meta property="og:url" content="{{ current_url | safe }}">
+        {% if current_url is defined %}<meta property="og:url" content="{{ current_url | safe }}">{% endif %}
         <meta property="og:title" content="{% if page %}{{ page.title }}{% elif section %}{{ section.title | capitalize }}{% else %}{{ config.title }}{% endif %}">
         <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
         <meta property="og:image" content="{{ get_url(path=config.extra.avatar) | safe }}">
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="{{ current_url | safe }}">
+        {% if current_url is defined %}<meta property="twitter:url" content="{{ current_url | safe }}">{% endif %}
         <meta property="twitter:title" content="{% if page %}{{ page.title }}{% elif section %}{{ section.title | capitalize }}{% else %}{{ config.title }}{% endif %}">
         <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% elif section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}">
         <meta property="twitter:image" content="{{ get_url(path=config.extra.avatar) | safe }}">

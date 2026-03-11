@@ -1,3 +1,8 @@
++++
+title = "Privacy Policy"
+date = 2026-03-10
++++
+
 # Privacy Policy
 
 Last Updated: March 10, 2026
