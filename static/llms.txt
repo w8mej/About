@@ -1,0 +1,49 @@
+# John Menerick — Principal Security Engineer (Independent Consultant)
+
+> John Menerick is an independent Principal Security Engineer based in Castro Valley,
+> California, with 18+ years in information security. He specializes in AI and agent
+> security, cloud detection and response, zero-trust architecture, and confidential
+> computing. This site is his CV and research portfolio; long-form research is at
+> https://www.securesql.info.
+
+## Professional Profile
+
+- [About and experience](https://cv.securesql.info/): roles at Syn Agency, SeedFi, Plastiq,
+  Ford Motor Company (Autonomic), Lake Michigan Credit Union, and NetSuite.
+
+## Technical Research & Projects
+
+- [Public contributions](https://cv.securesql.info/projects/): coordinated disclosures in
+  Apache Solr/Jetty (SOLR-4861), Apache Batik (BATIK-1023), MediaWiki (CVE-2015-6729),
+  jQuery, Square Keywhiz, Google Translate, and Google Glass; botnet C2 research; DEF CON 22
+  and 23 talks.
+- [Research](https://cv.securesql.info/research/): DARPA Cyber Grand Challenge finalist with Team CodeJitsu (bot Galactica; technical strategist),
+  DARPA AIxCC participant, Kubernetes SIG Security, Project Glasswing and the Anthropic
+  Cyber Verification Program (member since launch, 2026), open-source identity and
+  confidential-AI tooling.
+
+## Credentials & Education
+
+- Current: CISSP (ISC2); CKS and CKA (CNCF); NSA IAM/IEM; US DOJ/FBI Public Trust;
+  Professional Google Workspace Administrator; SCJP; Certified ScrumMaster;
+  FEMA ICS (IS-100/200/700/800); FCC Amateur Extra (W8MEJ) and GMRS
+- Former: Google Professional Cloud Security Engineer (expired); Oracle OCI Foundations,
+  AI Foundations, and Data Management Foundations Associate (expired); SANS GXPN, GDAT, GX-IA
+- Michigan Technological University — B.S. Computer Systems Science, B.S. Computer
+  Science, B.S. Business
+
+## External Profiles
+
+- [securesql.info](https://www.securesql.info)
+- [GitHub (w8mej)](https://github.com/w8mej)
+- [LinkedIn](https://www.linkedin.com/in/w8mej)
+- [X](https://x.com/w8mej)
+- [YouTube](https://www.youtube.com/channel/UCUfaf6mQgh_cX6V-SaAww1w)
+- [Twitch](https://www.twitch.tv/w8mej)
+- [Zero Noise Collective podcast](https://open.spotify.com/show/4BZNfTMlJ5iCD9bUW13sNq)
+- [Mastodon](https://mastodon.social/@w8mej)
+- [Keyoxide Identity](https://keyoxide.org/sephiroth@haxx.ninja)
+
+## Optional
+
+- [Sitemap](https://cv.securesql.info/sitemap.xml)
